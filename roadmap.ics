@@ -28,7 +28,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:slot-20261008-1200@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261008T120000
 DTEND;TZID=Europe/London:20261008T121500
 SUMMARY:🧊 Cooler clip #1 of triple (Cooler Files)
@@ -38,7 +38,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1330@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261008T133000
 DTEND;TZID=Europe/London:20261008T134500
 SUMMARY:🧊 Cooler clip #2 of triple (Cooler Files)
@@ -48,7 +48,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1500@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261008T150000
 DTEND;TZID=Europe/London:20261008T151500
 SUMMARY:🧊 Cooler clip #3 of triple (Cooler Files)
@@ -58,7 +58,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261009-1200@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261009T120000
 DTEND;TZID=Europe/London:20261009T121500
 SUMMARY:❔ Community post (TBD)
@@ -68,7 +68,7 @@ CATEGORIES:tbd
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261009-1330@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261009T133000
 DTEND;TZID=Europe/London:20261009T134500
 SUMMARY:🤔 Would You Call? (text/still\, reply CALL or FOLD) (time TBC)
@@ -78,7 +78,7 @@ CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261009-1500@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261009T150000
 DTEND;TZID=Europe/London:20261009T151500
 SUMMARY:🎬 Hero call: ATM ace-high vs Bingo jam
@@ -88,7 +88,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261010-1200@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261010T120000
 DTEND;TZID=Europe/London:20261010T121500
 SUMMARY:📰 Coolers Article satellite #4: Kings vs queens
@@ -98,7 +98,7 @@ CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261010-1330@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261010T133000
 DTEND;TZID=Europe/London:20261010T134500
 SUMMARY:❔ Community post (TBD)
@@ -108,7 +108,7 @@ CATEGORIES:tbd
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261010-1500@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261010T150000
 DTEND;TZID=Europe/London:20261010T151500
 SUMMARY:📰 Coolers Article satellite #3: Set vs set
@@ -118,7 +118,7 @@ CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1200@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261011T120000
 DTEND;TZID=Europe/London:20261011T121500
 SUMMARY:❔ Community post (TBD)
@@ -128,7 +128,7 @@ CATEGORIES:tbd
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1330@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261011T133000
 DTEND;TZID=Europe/London:20261011T134500
 SUMMARY:🤔 Would You Call? (text/still\, reply CALL or FOLD) (time TBC)
@@ -138,7 +138,7 @@ CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1500@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261011T150000
 DTEND;TZID=Europe/London:20261011T151500
 SUMMARY:❔ Community post (TBD)
@@ -148,7 +148,7 @@ CATEGORIES:tbd
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1515@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261011T151500
 DTEND;TZID=Europe/London:20261011T153000
 SUMMARY:📌 Pin Coolers Article #1 (after the 15:00 post)
@@ -158,7 +158,7 @@ CATEGORIES:action
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261012-1200@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261012T120000
 DTEND;TZID=Europe/London:20261012T121500
 SUMMARY:🎬 Hero call: second pair (ATC T8 vs Deanny/Devany barrel)
@@ -168,7 +168,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261012-1330@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261012T133000
 DTEND;TZID=Europe/London:20261012T134500
 SUMMARY:🤔 Would You Call? (text/still\, reply CALL or FOLD) (time TBC)
@@ -178,7 +178,7 @@ CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261012-1500@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261012T150000
 DTEND;TZID=Europe/London:20261012T151500
 SUMMARY:🎬 Hero call: Medi weak-queen live read
@@ -188,7 +188,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261013-1200@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261013T120000
 DTEND;TZID=Europe/London:20261013T121500
 SUMMARY:🧊 Cooler clip #1 of triple (Cooler Files)
@@ -198,7 +198,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261013-1330@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261013T133000
 DTEND;TZID=Europe/London:20261013T134500
 SUMMARY:🧊 Cooler clip #2 of triple (Cooler Files)
@@ -208,7 +208,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261013-1500@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261013T150000
 DTEND;TZID=Europe/London:20261013T151500
 SUMMARY:🧊 Cooler clip #3 of triple (Cooler Files)
@@ -218,7 +218,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261014-1200@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261014T120000
 DTEND;TZID=Europe/London:20261014T121500
 SUMMARY:🎬 Hero call: Brian TT vs check-raise + river jam
@@ -228,7 +228,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261014-1330@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261014T133000
 DTEND;TZID=Europe/London:20261014T134500
 SUMMARY:❔ Community post (TBD)
@@ -238,7 +238,7 @@ CATEGORIES:tbd
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261014-1500@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261014T150000
 DTEND;TZID=Europe/London:20261014T151500
 SUMMARY:🎬 Hero call: Will ace-high calldown vs Bingo
@@ -248,7 +248,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261022-1330@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261022T133000
 DTEND;TZID=Europe/London:20261022T134500
 SUMMARY:📰 Hero Calls Article satellite #1: calling station vs hero caller
@@ -258,7 +258,7 @@ CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261024-1500@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261024T150000
 DTEND;TZID=Europe/London:20261024T151500
 SUMMARY:📰 Hero Calls Article satellite #2: ATM ace-high clip (no link)
@@ -268,11 +268,11 @@ CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:routine-0805-daily@devonstpoker
-DTSTAMP:20261007T193818Z
+DTSTAMP:20261008T074807Z
 DTSTART;TZID=Europe/London:20261008T080500
 DTEND;TZID=Europe/London:20261008T082000
 SUMMARY:⏰ 08:05 queue routine (devonstpoker-3-day-schedule)
-DESCRIPTION:Morning routine (plan section 8):\n1. Count approved clips\; if fewer than 6\, trigger Scout → Spotter → Filter → Lab for 8 more.\n2. Check the next 72h is fully booked (3 slots/day\, no two clips back to back without a text post).\n3. Draft today's text posts (P2/P4/P5) and queue them.\n4. Confirm today's reveal clip quotes the right Would You Call? post.\n5. Check every caption has: series tag\, teach line\, question\, credit name + @handle.\n6. Flag takedown requests / stream DMs to Ben immediately.\n7. Remind Ben about the reply slots (11:30 and 16:00).\n8. Rebuild + publish this calendar (calendar/build_ics.py && calendar/publish.py).
+DESCRIPTION:Morning routine (plan section 8):\n1. Count approved clips\; if fewer than 6\, trigger Scout → Spotter → Filter → Lab for 8 more.\n2. Check the next 72h is fully booked (3 slots/day\, no two clips back to back without a text post).\n3. Draft today's text posts (P2/P4/P5) and queue them.\n4. Confirm today's reveal clip quotes the right Would You Call? post.\n5. Check every caption has: series tag\, teach line\, question\, credit name + @handle.\n6. Flag takedown requests / stream DMs to Ben immediately.\n7. Remind Ben about the reply slots (11:30 and 16:00).\n8. Rebuild + publish this calendar (calendar/build_ics.py\, publish.py\, then create_or_update_file\; see calendar/PUBLISH.md).
 TRANSP:TRANSPARENT
 RRULE:FREQ=DAILY
 CATEGORIES:routine
