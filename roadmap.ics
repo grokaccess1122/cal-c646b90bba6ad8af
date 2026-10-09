@@ -28,251 +28,321 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:slot-20261008-1200@devonstpoker
-DTSTAMP:20261008T074807Z
+DTSTAMP:20261009T074920Z
 DTSTART;TZID=Europe/London:20261008T120000
 DTEND;TZID=Europe/London:20261008T121500
-SUMMARY:🧊 Cooler clip #1 of triple (Cooler Files)
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day. Which of the 6 cooler-bank clips goes in which slot isn't recorded in the box files\; check Poker Poster's X scheduled queue.
+SUMMARY:✅ 🧊 Cooler clip #1 of triple (Cooler Files)
+DESCRIPTION:Status: POSTED\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day. Posted before the growth-fix 2-slot grid.
 TRANSP:TRANSPARENT
 CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1330@devonstpoker
-DTSTAMP:20261008T074807Z
+DTSTAMP:20261009T074920Z
 DTSTART;TZID=Europe/London:20261008T133000
 DTEND;TZID=Europe/London:20261008T134500
-SUMMARY:🧊 Cooler clip #2 of triple (Cooler Files)
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day (deliberate back-to-back clips).
+SUMMARY:✅ 🧊 Cooler clip #2 of triple (Cooler Files)
+DESCRIPTION:Status: POSTED\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day (deliberate back-to-back clips). Posted before the growth-fix.
 TRANSP:TRANSPARENT
 CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1500@devonstpoker
-DTSTAMP:20261008T074807Z
+DTSTAMP:20261009T074920Z
 DTSTART;TZID=Europe/London:20261008T150000
 DTEND;TZID=Europe/London:20261008T151500
-SUMMARY:🧊 Cooler clip #3 of triple (Cooler Files)
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day.
+SUMMARY:✅ 🧊 Cooler clip #3 of triple (Cooler Files)
+DESCRIPTION:Status: POSTED\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day. Posted before the growth-fix.
 TRANSP:TRANSPARENT
 CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261009-1200@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261009T120000
-DTEND;TZID=Europe/London:20261009T121500
-SUMMARY:❔ Community post (TBD)
-DESCRIPTION:Status: TBD (nothing booked in the box files yet)\nNote: Nothing recorded for this slot in the box files. Plan pillars for gaps: P4 beginner tools (Word of the Day\, outs quiz\, myth-buster) or P5 community ask.
-TRANSP:TRANSPARENT
-CATEGORIES:tbd
-END:VEVENT
-BEGIN:VEVENT
-UID:slot-20261009-1330@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261009T133000
-DTEND;TZID=Europe/London:20261009T134500
-SUMMARY:🤔 Would You Call? (text/still\, reply CALL or FOLD) (time TBC)
-DESCRIPTION:Status: INFERRED (slot time from the plan template\; confirm with Poker Poster)\nNote: Would You Call? runs Fri/Sun/Mon. Exact time isn't recorded\; 13:30 comes from the plan template (Fri 13:30 = Would You Call? hand B). Hand not recorded.
-TRANSP:TRANSPARENT
-CATEGORIES:would_you_call
-END:VEVENT
-BEGIN:VEVENT
-UID:slot-20261009-1500@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261009T150000
-DTEND;TZID=Europe/London:20261009T151500
-SUMMARY:🎬 Hero call: ATM ace-high vs Bingo jam
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip slug: tch-atm-acehigh-vs-bingo-jam\nOn-screen hook: ACE-HIGH CALL / HERO CALL\nCaption hook: Ace-high call vs a near-$2k jam. Bingo’s line = missed draw. Ace-high beats a bluff.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders
+UID:slot-20261008-1900@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261008T190000
+DTEND;TZID=Europe/London:20261008T191500
+SUMMARY:✅ 🎬 Air Ball: Baba ten-high triple barrel
+DESCRIPTION:Status: POSTED\nClip slug: airball-baba-triple-barrel-bluff\nClip status: render NOT found on box\nPost text (as scheduled on X):\nTen-high. Three barrels. Six grand on the river.\n\nKatie's pair of threes was ahead the whole way and still folded. Three barrels tell a story. Sometimes it's fiction.\n\nWould you call? 👇\n\nCredit: Champions Club Live\nhttps://www.youtube.com/watch?v=HarJ2PNgYEg&t=20006s\nNote: Posted Thu 8 19:00 with YouTube link in the main post (before the no-outside-links fix).
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261010-1200@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261010T120000
-DTEND;TZID=Europe/London:20261010T121500
-SUMMARY:📰 Coolers Article satellite #4: Kings vs queens
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nPost text:\nKings vs queens.\n\nQueens thinks "only aces or kings beat me."\nKings thinks "only aces beat me."\n\nBoth are thinking right. Only one walks.\n\nhttps://x.com/DevonStPoker/status/2107873647033532534\nArticle: Coolers Explained: Why Both Players Are Happy to Put All the Money In (https://x.com/DevonStPoker/status/2107873647033532534\, live 2026-10-07 17:40 UK)
-TRANSP:TRANSPARENT
-CATEGORIES:satellite
-END:VEVENT
-BEGIN:VEVENT
-UID:slot-20261010-1330@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261010T133000
-DTEND;TZID=Europe/London:20261010T134500
-SUMMARY:❔ Community post (TBD)
-DESCRIPTION:Status: TBD (nothing booked in the box files yet)\nNote: Nothing recorded for this slot in the box files. Plan pillars for gaps: P4 beginner tools (Word of the Day\, outs quiz\, myth-buster) or P5 community ask.
-TRANSP:TRANSPARENT
-CATEGORIES:tbd
-END:VEVENT
-BEGIN:VEVENT
-UID:slot-20261010-1500@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261010T150000
-DTEND;TZID=Europe/London:20261010T151500
-SUMMARY:📰 Coolers Article satellite #3: Set vs set
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nPost text:\nSet vs set is the cruellest spot in poker.\n\nBoth players flop three of a kind. Both feel locked. Neither will ever fold.\n\nThe smaller set? Usually needs one card in the whole deck.\n\nWhy it happens 👇\nhttps://x.com/DevonStPoker/status/2107873647033532534\nArticle: Coolers Explained: Why Both Players Are Happy to Put All the Money In (https://x.com/DevonStPoker/status/2107873647033532534\, live 2026-10-07 17:40 UK)
-TRANSP:TRANSPARENT
-CATEGORIES:satellite
-END:VEVENT
-BEGIN:VEVENT
-UID:slot-20261011-1200@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261011T120000
-DTEND;TZID=Europe/London:20261011T121500
-SUMMARY:❔ Community post (TBD)
-DESCRIPTION:Status: TBD (nothing booked in the box files yet)\nNote: Nothing recorded for this slot in the box files. Plan pillars for gaps: P4 beginner tools (Word of the Day\, outs quiz\, myth-buster) or P5 community ask.
-TRANSP:TRANSPARENT
-CATEGORIES:tbd
-END:VEVENT
-BEGIN:VEVENT
-UID:slot-20261011-1330@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261011T133000
-DTEND;TZID=Europe/London:20261011T134500
-SUMMARY:🤔 Would You Call? (text/still\, reply CALL or FOLD) (time TBC)
-DESCRIPTION:Status: INFERRED (slot time from the plan template\; confirm with Poker Poster)\nNote: A Sun 13:30 post was being scheduled in Poker Poster's composer (screenshot 7 Oct 18:39)\; its text isn't visible. Would You Call? runs Fri/Sun/Mon\, so it's probably this one. Confirm.
+UID:slot-20261009-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261009T180000
+DTEND;TZID=Europe/London:20261009T181500
+SUMMARY:🤔 Would You Call? Ace-high vs river jam
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-acehigh\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Fri 9 12:00.
 TRANSP:TRANSPARENT
 CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261011-1500@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261011T150000
-DTEND;TZID=Europe/London:20261011T151500
-SUMMARY:❔ Community post (TBD)
-DESCRIPTION:Status: TBD (nothing booked in the box files yet)\nNote: Nothing recorded for this slot in the box files. Plan pillars for gaps: P4 beginner tools (Word of the Day\, outs quiz\, myth-buster) or P5 community ask.
+UID:slot-20261009-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261009T213000
+DTEND;TZID=Europe/London:20261009T214500
+SUMMARY:🎬 Hero call: ATM ace-high vs Bingo jam
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-atm-acehigh-vs-bingo-jam\nOn-screen hook: ACE-HIGH CALL / HERO CALL\nCaption hook: Ace-high call vs a near-$2k jam. Bingo’s line = missed draw. Ace-high beats a bluff.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nYou voted CALL or FOLD. Here's what happened.\n\nAce-high vs a near-$2k river jam. Bingo's line only makes sense as a missed draw\, and ace-high beats a bluff.\n\nvia @tch_dallas
 TRANSP:TRANSPARENT
-CATEGORIES:tbd
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261010-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261010T180000
+DTEND;TZID=Europe/London:20261010T181500
+SUMMARY:🎬 Air Ball: Katie king-high raise vs ace-high
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-katie-k8-bets-off-acehigh\nClip status: render NOT found on box\nPost text (as scheduled on X):\nKing-high and a draw vs ace-high and the lead.\n\nHam bets $2\,500. Katie raises to $5\,000.\n\nWould you call with ace-high? 👇\n\nvia @ChampionsClubTX
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261010-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261010T213000
+DTEND;TZID=Europe/London:20261010T214500
+SUMMARY:📰 Coolers Article satellite: Kings vs queens (week's Article link)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat4-kk-qq\nClip status: render NOT found on box\nPost text:\nKings vs queens.\n\nQueens thinks "only aces or kings beat me."\nKings thinks "only aces beat me."\n\nBoth are thinking right. Only one walks.\n\nhttps://x.com/DevonStPoker/status/2107873647033532534\nPost text (as scheduled on X):\nKings vs queens.\n\nQueens thinks "only aces or kings beat me."\nKings thinks "only aces beat me."\n\nBoth are thinking right. Only one walks.\n\nhttps://x.com/DevonStPoker/status/2107873647033532534\nArticle: Coolers Explained: Why Both Players Are Happy to Put All the Money In (https://x.com/DevonStPoker/status/2107873647033532534\, live 2026-10-07 17:40 UK)\nNote: This week's one Article link in a main post (growth-fix rule: at most one Article link in a main post per week).
+TRANSP:TRANSPARENT
+CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1515@devonstpoker
-DTSTAMP:20261008T074807Z
+DTSTAMP:20261009T074920Z
 DTSTART;TZID=Europe/London:20261011T151500
 DTEND;TZID=Europe/London:20261011T153000
-SUMMARY:📌 Pin Coolers Article #1 (after the 15:00 post)
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nArticle: Coolers Explained: Why Both Players Are Happy to Put All the Money In (https://x.com/DevonStPoker/status/2107873647033532534\, live 2026-10-07 17:40 UK)\nNote: Pin action\, not a post. Plan section 5: pin the newest Article. NOTE: the Hero Calls Article went live 7 Oct 19:23\, so check which Article should be pinned.
+SUMMARY:📌 Pin action (on hold)
+DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nArticle: Coolers Explained: Why Both Players Are Happy to Put All the Money In (https://x.com/DevonStPoker/status/2107873647033532534\, live 2026-10-07 17:40 UK)\nNote: Pin on hold pending Ben's OK on the profile refresh (the diagnosis suggests pinning the Coolers Explained Article).
 TRANSP:TRANSPARENT
 CATEGORIES:action
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261012-1200@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261012T120000
-DTEND;TZID=Europe/London:20261012T121500
-SUMMARY:🎬 Hero call: second pair (ATC T8 vs Deanny/Devany barrel)
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip slug: tch-atc-t8-vs-deanny-barrel\nOn-screen hook: SECOND PAIR CALL / HERO CALL\nCaption hook: Second pair calls a river barrel. Missed-draw boards + aggression = often air.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders
-TRANSP:TRANSPARENT
-CATEGORIES:clip
-END:VEVENT
-BEGIN:VEVENT
-UID:slot-20261012-1330@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261012T133000
-DTEND;TZID=Europe/London:20261012T134500
-SUMMARY:🤔 Would You Call? (text/still\, reply CALL or FOLD) (time TBC)
-DESCRIPTION:Status: INFERRED (slot time from the plan template\; confirm with Poker Poster)\nNote: Would You Call? runs Fri/Sun/Mon. 13:30 comes from the plan template (Mon 13:30 = Would You Call? hand A)\, the only free Monday slot. Hand not recorded.
+UID:slot-20261011-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261011T180000
+DTEND;TZID=Europe/London:20261011T181500
+SUMMARY:🤔 Would You Call? Second pair vs river barrel
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-second-pair\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Sun 11 13:30.
 TRANSP:TRANSPARENT
 CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261012-1500@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261012T150000
-DTEND;TZID=Europe/London:20261012T151500
-SUMMARY:🎬 Hero call: Medi weak-queen live read
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip slug: tch-medi-weak-queen-call\nOn-screen hook: WEAK QUEEN / LIVE READ\nCaption hook: Medi’s live read: “weak queen.” Timing + sizing > guessing cards.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders
+UID:slot-20261011-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261011T213000
+DTEND;TZID=Europe/London:20261011T214500
+SUMMARY:🎬 Hero call: Baba queen-high vs Katie's $900
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-baba-queen-high-hero-call\nClip status: render NOT found on box\nPost text (as scheduled on X):\nSame table\, same Katie. $900 on the river.\n\nNick Baba has Q♦10♦. No pair. Just queen-high.\n\nCall or fold? 👇\n\nvia @ChampionsClubTX
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261013-1200@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261013T120000
-DTEND;TZID=Europe/London:20261013T121500
-SUMMARY:🧊 Cooler clip #1 of triple (Cooler Files)
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Second cooler triple day. Clip assignment isn't recorded in the box files.
+UID:slot-20261012-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261012T180000
+DTEND;TZID=Europe/London:20261012T181500
+SUMMARY:🤔 Would You Call? Tens vs check-raise + river jam
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-tens\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Mon 12 13:30.
 TRANSP:TRANSPARENT
-CATEGORIES:cooler_clip
+CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261013-1330@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261013T133000
-DTEND;TZID=Europe/London:20261013T134500
-SUMMARY:🧊 Cooler clip #2 of triple (Cooler Files)
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull
+UID:slot-20261012-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261012T213000
+DTEND;TZID=Europe/London:20261012T214500
+SUMMARY:🎬 Hero call: ATC T8 vs Deanny/Devany barrel
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-atc-t8-vs-deanny-barrel\nOn-screen hook: SECOND PAIR CALL / HERO CALL\nCaption hook: Second pair calls a river barrel. Missed-draw boards + aggression = often air.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nYou voted CALL or FOLD. Here's what happened.\n\nSecond pair calls a river barrel. When the draws miss and the betting gets louder\, it's often air.\n\nvia @tch_dallas
 TRANSP:TRANSPARENT
-CATEGORIES:cooler_clip
+CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261013-1500@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261013T150000
-DTEND;TZID=Europe/London:20261013T151500
-SUMMARY:🧊 Cooler clip #3 of triple (Cooler Files)
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull
+UID:slot-20261013-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261013T180000
+DTEND;TZID=Europe/London:20261013T181500
+SUMMARY:🎬 4% Club: Mr. J 4-3 cracks kings
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 4pct-mrj-43s-cracks-kings\nClip status: render NOT found on box\nPost text (as scheduled on X):\n4-3 suited vs pocket kings. All in.\n\nMr. J is 21% to win and it is $5\,265 to call.\n\nCall or fold? 👇\n\nvia @ChampionsClubTX
 TRANSP:TRANSPARENT
-CATEGORIES:cooler_clip
+CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261014-1200@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261014T120000
-DTEND;TZID=Europe/London:20261014T121500
+UID:slot-20261013-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261013T213000
+DTEND;TZID=Europe/London:20261013T214500
+SUMMARY:💬 Text: set vs set (no Article link)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat3-set-vs-set-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nSet vs set is the cruellest spot in poker.\n\nBoth players flop three of a kind. Both feel locked. Neither will ever fold.\n\nThe smaller set usually needs one card in the whole deck. Ever been on the wrong end of one? 👇
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261014-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261014T180000
+DTEND;TZID=Europe/London:20261014T181500
 SUMMARY:🎬 Hero call: Brian TT vs check-raise + river jam
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-brian-tt-vs-river-jam\nOn-screen hook: TENS CALL / HERO CALL\nCaption hook: Tens vs check-raise + river jam. Missed-draw lines raise for fold equity — tens hold.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nNote: Poker Poster's composer (7 Oct 18:42) showed this slot scheduled as text: "Tens vs a check-raise + river jam — did you say CALL or FOLD? Drop it below. The clip drops when the teach-line VO is ready." The teach-line VO was finished at 18:41\, so check whether the clip has been attached.
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-brian-tt-vs-river-jam\nOn-screen hook: TENS CALL / HERO CALL\nCaption hook: Tens vs check-raise + river jam. Missed-draw lines raise for fold equity — tens hold.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nYou voted CALL or FOLD on the tens spot. Here's what happened.\n\nTens vs a check-raise + river jam. Missed draws raise for fold equity\, so the tens hold.\n\nvia @tch_dallas
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261014-1330@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261014T133000
-DTEND;TZID=Europe/London:20261014T134500
-SUMMARY:❔ Community post (TBD)
-DESCRIPTION:Status: TBD (nothing booked in the box files yet)\nNote: Nothing recorded for this slot in the box files. Plan pillars for gaps: P4 beginner tools (Word of the Day\, outs quiz\, myth-buster) or P5 community ask.
+UID:slot-20261014-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261014T213000
+DTEND;TZID=Europe/London:20261014T214500
+SUMMARY:🎬 Air Ball: Wave 9-high bluff vs A2
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-wave-96-bluffs-a2\nClip status: render NOT found on box\nPost text (as scheduled on X):\nHis draw missed. Nine-high on the river.\n\nThe board paired twice\, so Derek's A♣2♣ has the best hand. Wave bets $200 anyway.\n\nWould you call with ace-high? 👇\n\nvia @ChampionsClubTX
 TRANSP:TRANSPARENT
-CATEGORIES:tbd
+CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261014-1500@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261014T150000
-DTEND;TZID=Europe/London:20261014T151500
+UID:slot-20261015-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261015T180000
+DTEND;TZID=Europe/London:20261015T181500
+SUMMARY:🎬 4% Club: Jerry 5-4 wins three run-outs
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 4pct-jerry-54-wins-three-runouts\nClip status: render NOT found on box\nPost text (as scheduled on X):\n5-4 offsuit calls a 4-bet.\n\nThen the money goes in against pocket jacks\, and they run it three times.\n\nWould you get it in with 5-4? 👇\n\nvia @ChampionsClubTX
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261015-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261015T213000
+DTEND;TZID=Europe/London:20261015T214500
+SUMMARY:💬 Poker Word of the Day: Hero call
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: word-of-the-day-hero-call\nClip status: render NOT found on box\nNote: Existing text kept (null in manifest). From Fri 9 13:30.
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261016-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261016T180000
+DTEND;TZID=Europe/London:20261016T181500
+SUMMARY:🎬 Cooler: Mario top set vs nut flush draw
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: bestbet-mario-set-vs-hc\nCaption hook: Top set vs nut flush draw + gutshot. With that many outs he’s nearly coinflipping.\nCredit: bestbetLIVE\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nTop set vs a nut flush draw + gutshot.\n\nWith that many outs\, the draw is close to a coin flip. Both are right to get it in.\n\nWho are you rooting for? 👇\n\nvia bestbetLIVE
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261016-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261016T213000
+DTEND;TZID=Europe/London:20261016T214500
+SUMMARY:🎬 Air Ball: Doc table talk vs Jeff's two pair
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-doc-talks-jeff-off-two-pair\nClip status: render NOT found on box\nPost text (as scheduled on X):\nJeff has two pair. Doc bets $1\,000 and will not stop talking ("I'll show you one for $300").\n\nJeff tanks for over two minutes.\n\nWould you call? 👇\n\nvia @ChampionsClubTX
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261017-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261017T180000
+DTEND;TZID=Europe/London:20261017T181500
+SUMMARY:🎬 4% Club: Jambros PLO run-twice chop
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 4pct-jambros-plo-run-twice-chop\nClip status: render NOT found on box\nPost text (as scheduled on X):\nA $27k PLO pot. Jambros has 6-6-5-5 vs trip nines and is 22% to win\, $6\,333 to call.\n\nThey agree to run it twice.\n\nCall or fold? 👇\n\nvia @ChampionsClubTX
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261017-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261017T213000
+DTEND;TZID=Europe/London:20261017T214500
+SUMMARY:💬 Text: in a cooler nobody plays badly (no Article link)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat2-nobody-plays-badly-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nIn a cooler\, nobody plays badly.\n\nBoth players have a monster. Both are right to put it all in. One of them just ran into the only hand that beats them.
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261018-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261018T180000
+DTEND;TZID=Europe/London:20261018T181500
+SUMMARY:🎬 Hero call: Medi weak-queen live read
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-medi-weak-queen-call\nOn-screen hook: WEAK QUEEN / LIVE READ\nCaption hook: Medi’s live read: “weak queen.” Timing + sizing > guessing cards.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nMedi's live read: "weak queen." Then the call.\n\nTiming and bet sizing tell you more than guessing cards.\n\nWould you have called? 👇\n\nvia @tch_dallas
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261018-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261018T213000
+DTEND;TZID=Europe/London:20261018T214500
+SUMMARY:🎬 Cooler: Josh/George tens kicker
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: bestbet-josh-george-tens-kicker\nCaption hook: Both hit tens. Same pair cooler — kicker decides it\; neither is wrong to stack.\nCredit: bestbetLIVE\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nBoth players hit tens.\n\nSame pair\, so the kicker decides it\, and neither player is wrong to stack off.\n\nWho's winning? 👇\n\nvia bestbetLIVE
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261019-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261019T180000
+DTEND;TZID=Europe/London:20261019T181500
+SUMMARY:💬 Text: sickest cooler ask (no Article link)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat5-sickest-cooler-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFull house vs a bigger full house. Set into top set. Kings into aces.\n\nWhat's the sickest cooler you've ever seen live? 👇
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261019-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261019T213000
+DTEND;TZID=Europe/London:20261019T214500
+SUMMARY:🎬 Cooler: Queens dream spot vs George
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: bestbet-qq-dream-vs-george\nOn-screen hook: QUEENS / DREAM SPOT\nCaption hook: QQ dream spot on a jack-high board. Overpair dominates most of George’s range.\nCredit: bestbetLIVE\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nQueens on a jack-high board.\n\nAn overpair dominates most of the hands that call here. Dream spot.\n\nHow much would you bet? 👇\n\nvia bestbetLIVE
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261020-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261020T180000
+DTEND;TZID=Europe/London:20261020T181500
 SUMMARY:🎬 Hero call: Will ace-high calldown vs Bingo
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-will-acehigh-calldown-vs-bingo\nOn-screen hook: ACE-HIGH CALLDOWN / HERO CALL\nCaption hook: Ace-high call-down vs Bingo. Aggression that doesn’t match a real hand = bluff. Ace-high good.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nAce-high call-down vs Bingo. No pair — just a read. And he's right.\n\nCredit: TCH LIVE Poker Dallas $2/$5\nhttps://www.youtube.com/watch?v=hAPac_9cK60
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-will-acehigh-calldown-vs-bingo\nOn-screen hook: ACE-HIGH CALLDOWN / HERO CALL\nCaption hook: Ace-high call-down vs Bingo. Aggression that doesn’t match a real hand = bluff. Ace-high good.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nAce-high call-down vs Bingo. No pair\, just a read.\n\nWhen the aggression doesn't match a real hand\, it's usually a bluff.\n\nWould you have called? 👇\n\nvia @tch_dallas
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261022-1330@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261022T133000
-DTEND;TZID=Europe/London:20261022T134500
-SUMMARY:📰 Hero Calls Article satellite #1: calling station vs hero caller
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nPost text (as scheduled on X):\nA calling station calls because they don't want to fold.\n\nA hero caller calls because the story doesn't add up.\n\nSame chips in the middle. Completely different reason.\n\nhttps://x.com/DevonStPoker/status/2107899667157762446\nArticle: Hero Calls Explained: How Live Players Call With "Nothing" and Get It Right (https://x.com/DevonStPoker/status/2107899667157762446\, live 2026-10-07 19:23 UK)
+UID:slot-20261020-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261020T213000
+DTEND;TZID=Europe/London:20261020T214500
+SUMMARY:💬 Text: why didn't one of them fold? (no Article link)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat1-why-not-fold-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nYou've seen the clip: two players\, every chip in the middle\, cards flip\, chaos.\n\n"Why didn't one of them just fold?"\n\nBecause folding would've been the mistake. In a cooler\, both players are right.
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261022-1800@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261022T180000
+DTEND;TZID=Europe/London:20261022T181500
+SUMMARY:📰 Hero Calls Article satellite: calling station vs hero caller (week's Article link)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: hero-sat1-calling-station\nClip status: render NOT found on box\nPost text (as scheduled on X):\nA calling station calls because they don't want to fold.\n\nA hero caller calls because the story doesn't add up.\n\nSame chips in the middle. Completely different reason.\n\nhttps://x.com/DevonStPoker/status/2107899667157762446\nArticle: Hero Calls Explained: How Live Players Call With "Nothing" and Get It Right (https://x.com/DevonStPoker/status/2107899667157762446\, live 2026-10-07 19:23 UK)\nNote: This week's one Article link in a main post (growth-fix rule: at most one Article link in a main post per week).
 TRANSP:TRANSPARENT
 CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261024-1500@devonstpoker
-DTSTAMP:20261008T074807Z
-DTSTART;TZID=Europe/London:20261024T150000
-DTEND;TZID=Europe/London:20261024T151500
-SUMMARY:📰 Hero Calls Article satellite #2: ATM ace-high clip (no link)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-atm-acehigh-vs-bingo-jam\nOn-screen hook: ACE-HIGH CALL / HERO CALL\nCaption hook: Ace-high call vs a near-$2k jam. Bingo’s line = missed draw. Ace-high beats a bluff.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nAce-high. River jam. Most players fold without thinking.\n\nATM calls\, and he's right.\n\nHow live players call with "nothing" and get it right: full breakdown is pinned on my profile 📌\n\n🎥 TCH LIVE Poker Dallas $2/$5\nArticle: Hero Calls Explained: How Live Players Call With "Nothing" and Get It Right (https://x.com/DevonStPoker/status/2107899667157762446\, live 2026-10-07 19:23 UK)
+UID:slot-20261024-2130@devonstpoker
+DTSTAMP:20261009T074920Z
+DTSTART;TZID=Europe/London:20261024T213000
+DTEND;TZID=Europe/London:20261024T214500
+SUMMARY:🎬 Hero Calls satellite: ATM ace-high (pinned-on-profile\, no link)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: hero-sat2-atm-pinned\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAce-high. River jam. Most players fold without thinking.\n\nATM calls\, and he's right.\n\nWould you have called? 👇\n\nvia @tch_dallas\nArticle: Hero Calls Explained: How Live Players Call With "Nothing" and Get It Right (https://x.com/DevonStPoker/status/2107899667157762446\, live 2026-10-07 19:23 UK)\nNote: Pinned-on-profile satellite (no Article link in the main post). Media is the ATM ace-high clip.
 TRANSP:TRANSPARENT
-CATEGORIES:satellite
+CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:routine-0805-daily@devonstpoker
-DTSTAMP:20261008T074807Z
+DTSTAMP:20261009T074920Z
 DTSTART;TZID=Europe/London:20261008T080500
 DTEND;TZID=Europe/London:20261008T082000
 SUMMARY:⏰ 08:05 queue routine (devonstpoker-3-day-schedule)
-DESCRIPTION:Morning routine (plan section 8):\n1. Count approved clips\; if fewer than 6\, trigger Scout → Spotter → Filter → Lab for 8 more.\n2. Check the next 72h is fully booked (3 slots/day\, no two clips back to back without a text post).\n3. Draft today's text posts (P2/P4/P5) and queue them.\n4. Confirm today's reveal clip quotes the right Would You Call? post.\n5. Check every caption has: series tag\, teach line\, question\, credit name + @handle.\n6. Flag takedown requests / stream DMs to Ben immediately.\n7. Remind Ben about the reply slots (11:30 and 16:00).\n8. Rebuild + publish this calendar (calendar/build_ics.py\, publish.py\, then create_or_update_file\; see calendar/PUBLISH.md).
+DESCRIPTION:Morning routine (plan section 8):\n1. Count approved clips\; if fewer than 6\, trigger Scout → Spotter → Filter → Lab for 8 more.\n2. Check the next 72h is fully booked (2 slots/day (18:00\, 21:30)\, no two clips back to back without a text post).\n3. Draft today's text posts (P2/P4/P5) and queue them.\n4. Confirm today's reveal clip quotes the right Would You Call? post.\n5. Check every caption has: series tag\, teach line\, question\, credit name + @handle (via @handle form\; no hashtags\; no outside links in the main post).\n6. Flag takedown requests / stream DMs to Ben immediately.\n7. Remind Ben about the reply slots (on hold pending growth-fix).\n8. Rebuild + publish this calendar (calendar/build_ics.py\, publish.py\, then create_or_update_file\; see calendar/PUBLISH.md).
 TRANSP:TRANSPARENT
 RRULE:FREQ=DAILY
 CATEGORIES:routine
