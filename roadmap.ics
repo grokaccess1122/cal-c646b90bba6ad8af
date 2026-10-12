@@ -28,87 +28,87 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:slot-20261008-1200@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261008T120000
 DTEND;TZID=Europe/London:20261008T121500
 SUMMARY:✅ 🧊 Cooler clip #1 of triple (Cooler Files)
-DESCRIPTION:Status: POSTED\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day. Posted before the growth-fix 2-slot grid.
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2108150413342175646\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day. Posted before the growth-fix 2-slot grid.
 TRANSP:TRANSPARENT
 CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1330@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261008T133000
 DTEND;TZID=Europe/London:20261008T134500
 SUMMARY:✅ 🧊 Cooler clip #2 of triple (Cooler Files)
-DESCRIPTION:Status: POSTED\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day (deliberate back-to-back clips). Posted before the growth-fix.
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2108173064659959813\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day (deliberate back-to-back clips). Posted before the growth-fix.
 TRANSP:TRANSPARENT
 CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1500@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261008T150000
 DTEND;TZID=Europe/London:20261008T151500
 SUMMARY:✅ 🧊 Cooler clip #3 of triple (Cooler Files)
-DESCRIPTION:Status: POSTED\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day. Posted before the growth-fix.
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2108195711338598655\nClip: TBD\, one of the cooler bank: tch-bobby-kk-vs-scott-qq\, tch-spooky-set-vs-david-nuts\, bestbet-mario-set-vs-hc\, bestbet-josh-george-tens-kicker\, bestbet-qq-dream-vs-george\, ccl-ari-boat-vs-chrisu-eightfull\nNote: Cooler triple day. Posted before the growth-fix.
 TRANSP:TRANSPARENT
 CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1900@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261008T190000
 DTEND;TZID=Europe/London:20261008T191500
 SUMMARY:✅ 🎬 Air Ball: Baba ten-high triple barrel
-DESCRIPTION:Status: POSTED\nClip slug: airball-baba-triple-barrel-bluff\nClip status: render NOT found on box\nPost text (as scheduled on X):\nTen-high. Three barrels. Six grand on the river.\n\nKatie's pair of threes was ahead the whole way and still folded. Three barrels tell a story. Sometimes it's fiction.\n\nWould you call? 👇\n\nCredit: Champions Club Live\nhttps://www.youtube.com/watch?v=HarJ2PNgYEg&t=20006s\nNote: Posted Thu 8 19:00 with YouTube link in the main post (before the no-outside-links fix).
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2108256115561755102\nClip slug: airball-baba-triple-barrel-bluff\nClip status: render NOT found on box\nPost text (as scheduled on X):\nTen-high. Three barrels. Six grand on the river.\n\nKatie's pair of threes was ahead the whole way and still folded. Three barrels tell a story. Sometimes it's fiction.\n\nWould you call? 👇\n\nCredit: Champions Club Live\nhttps://www.youtube.com/watch?v=HarJ2PNgYEg&t=20006s\nNote: Posted Thu 8 19:00 with YouTube link in the main post (before the no-outside-links fix).
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261009-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261009T180000
 DTEND;TZID=Europe/London:20261009T181500
-SUMMARY:🤔 Would You Call? Ace-high vs river jam
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-acehigh\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Fri 9 12:00.
+SUMMARY:✅ 🤔 Would You Call? Ace-high vs river jam
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2108603401135124615\nClip slug: wyc-acehigh\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Fri 9 12:00.
 TRANSP:TRANSPARENT
 CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261009-2130@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261009T213000
 DTEND;TZID=Europe/London:20261009T214500
-SUMMARY:🎬 Hero call: ATM ace-high vs Bingo jam
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-atm-acehigh-vs-bingo-jam\nOn-screen hook: ACE-HIGH CALL / HERO CALL\nCaption hook: Ace-high call vs a near-$2k jam. Bingo’s line = missed draw. Ace-high beats a bluff.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nYou voted CALL or FOLD. Here's what happened.\n\nAce-high vs a near-$2k river jam. Bingo's line only makes sense as a missed draw\, and ace-high beats a bluff.\n\nvia @tch_dallas
+SUMMARY:✅ 🎬 Hero call: ATM ace-high vs Bingo jam
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2108656246244970951\nClip slug: tch-atm-acehigh-vs-bingo-jam\nOn-screen hook: ACE-HIGH CALL / HERO CALL\nCaption hook: Ace-high call vs a near-$2k jam. Bingo’s line = missed draw. Ace-high beats a bluff.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nYou voted CALL or FOLD. Here's what happened.\n\nAce-high vs a near-$2k river jam. Bingo's line only makes sense as a missed draw\, and ace-high beats a bluff.\n\nvia @texascardhouse
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261010-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261010T180000
 DTEND;TZID=Europe/London:20261010T181500
-SUMMARY:🎬 House rules: betting line
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: rules-betting-line\nClip status: render NOT found on box\nPost text (as scheduled on X):\nHe moves chips forward past the betting line... then pulls them back to resize.\n\nIs that a bet where you play? Does the line count in your room?\n\nAt this room\, a bet counts only when chips leave your hand.\n\nvia @ChampionsClubTX\nNote: no player names (Gem Filter brand-safety)
+SUMMARY:✅ 🎬 House rules: betting line
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2108965793006575624\nClip slug: rules-betting-line\nClip status: render NOT found on box\nPost text (as scheduled on X):\nHe moves chips forward past the betting line... then pulls them back to resize.\n\nIs that a bet where you play? Does the line count in your room?\n\nAt this room\, a bet counts only when chips leave your hand.\n\nvia @ChampionsClubTX\nNote: no player names (Gem Filter brand-safety)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261010-2130@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261010T213000
 DTEND;TZID=Europe/London:20261010T214500
-SUMMARY:🎬 Air Ball: Katie king-high raise vs ace-high
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-katie-k8-bets-off-acehigh\nClip status: render NOT found on box\nPost text (as scheduled on X):\nKing-high and a draw vs ace-high and the lead.\n\nHam bets $2\,500. Katie raises to $5\,000.\n\nWould you call with ace-high? 👇\n\nvia @ChampionsClubTX
+SUMMARY:✅ 🎬 Air Ball: Katie king-high raise vs ace-high
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2109018633368461411\nClip slug: airball-katie-k8-bets-off-acehigh\nClip status: render NOT found on box\nPost text (as scheduled on X):\nKing-high and a draw vs ace-high and the lead.\n\nHam bets $2\,500. Katie raises to $5\,000.\n\nWould you call with ace-high? 👇\n\nvia @ChampionsClubTX
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1515@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261011T151500
 DTEND;TZID=Europe/London:20261011T153000
 SUMMARY:📌 Pin action (on hold)
@@ -118,27 +118,27 @@ CATEGORIES:action
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261011T180000
 DTEND;TZID=Europe/London:20261011T181500
-SUMMARY:🎬 House rules: verbal fold full house
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: rules-verbal-fold-full-house\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFacing an all-in in PLO\, he says "I gotta fold"... then notices the six in his hand. Full house.\n\nShould his words count? What's the ruling in your room?\n\nVerbal is binding. Read your hand before you speak.\n\nvia @bestbet_jax\nNote: no player names (Gem Filter brand-safety)
+SUMMARY:✅ 🎬 House rules: verbal fold full house
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2109328176086135248\nClip slug: rules-verbal-fold-full-house\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFacing an all-in in PLO\, he says "I gotta fold"... then notices the six in his hand. Full house.\n\nShould his words count? What's the ruling in your room?\n\nVerbal is binding. Read your hand before you speak.\n\nvia @bestbet_jax\nNote: no player names (Gem Filter brand-safety)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-2130@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261011T213000
 DTEND;TZID=Europe/London:20261011T214500
-SUMMARY:🎬 Hero call: Baba queen-high vs Katie's $900
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-baba-queen-high-hero-call\nClip status: render NOT found on box\nPost text (as scheduled on X):\nSame table\, same Katie. $900 on the river.\n\nNick Baba has Q♦10♦. No pair. Just queen-high.\n\nCall or fold? 👇\n\nvia @ChampionsClubTX
+SUMMARY:✅ 🎬 Hero call: Baba queen-high vs Katie's $900
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2109381021116268981\nClip slug: airball-baba-queen-high-hero-call\nClip status: render NOT found on box\nPost text (as scheduled on X):\nSame table\, same Katie. $900 on the river.\n\nNick Baba has Q♦10♦. No pair. Just queen-high.\n\nCall or fold? 👇\n\nvia @ChampionsClubTX
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261012-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261012T180000
 DTEND;TZID=Europe/London:20261012T181500
 SUMMARY:🎬 House rules: verbal amount fifteen
@@ -148,7 +148,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261012-2130@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261012T213000
 DTEND;TZID=Europe/London:20261012T214500
 SUMMARY:🎬 4% Club: Mr. J 4-3 cracks kings
@@ -158,187 +158,187 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261013-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261013T180000
 DTEND;TZID=Europe/London:20261013T181500
+SUMMARY:💬 Drama: The $2.7 million in fake chips a toilet gave away (Christian Lusardi\, Borgata 2014)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-01\nClip status: render NOT found on box\nPost text (as scheduled on X):\nA man flushed $2.7 million in fake poker chips down a hotel toilet. The toilet is what caught him.\n\nIn January 2014\, the Borgata casino in Atlantic City was running its Winter Poker Open. Two days in\, guests at the nearby Harrah's hotel reported a sewer leak in their rooms.\n\nStaff traced it to poker chips in the pipes: 494 grey $5\,000 chips and nine $25\,000 chips. All Borgata tournament chips. All fake.\n\nProsecutors said Christian Lusardi\, a player from North Carolina\, ordered the chips online from a manufacturer in China and stuck counterfeit Borgata logos on them. An audit found 160 fake $5\,000 chips\, $800\,000 in face value\, had already been slipped into the tournament. Fearing he might be caught\, prosecutors said\, he flushed the rest.\n\nThe tournament was cancelled after three days. Lusardi pleaded guilty to trademark counterfeiting and criminal mischief and in October 2015 was sentenced to five years in prison. He was ordered to pay $463\,540 to the Borgata and $9\,455 to Harrah's for the plumbing.\n\n"Lusardi was playing with dirty money long before he flushed those chips down the toilet\," said Colonel Rick Fuentes of the New Jersey State Police.\n\nHere is the part most people miss: tournament chips can't be cashed in. So who was he stealing from? Everyone else in the tournament. Every chip is a slice of one shared prize pool. Add fake chips and every honest player's slice shrinks\, even though nobody touched their wallet.\n\nIf a crime takes a little from thousands of people instead of a lot from one person\, does it feel less wrong?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261013-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261013T213000
+DTEND;TZID=Europe/London:20261013T214500
 SUMMARY:🎬 House rules: exposed card live
 DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: rules-exposed-card-live\nClip status: render NOT found on box\nPost text (as scheduled on X):\nReaching for a chip\, his hole card sticks to his hand and flips face up mid-hand.\n\nIs his hand dead\, or does it play on? What's the rule in your room?\n\nAn exposed card stays live\, but now everyone knows it.\n\nvia @ChampionsClubTX\nNote: no player names (Gem Filter brand-safety)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261013-2130@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261013T213000
-DTEND;TZID=Europe/London:20261013T214500
-SUMMARY:🎬 Air Ball: Wave 9-high bluff vs A2
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-wave-96-bluffs-a2\nClip status: render NOT found on box\nPost text (as scheduled on X):\nHis draw missed. Nine-high on the river.\n\nThe board paired twice\, so Derek's A♣2♣ has the best hand. Wave bets $200 anyway.\n\nWould you call with ace-high? 👇\n\nvia @ChampionsClubTX
-TRANSP:TRANSPARENT
-CATEGORIES:clip
-END:VEVENT
-BEGIN:VEVENT
 UID:slot-20261014-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261014T180000
 DTEND;TZID=Europe/London:20261014T181500
+SUMMARY:💬 Drama: Black Friday: the day $390 million became a promise (Full Tilt\, April 15\, 2011)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-02\nClip status: render NOT found on box\nPost text (as scheduled on X):\nOn April 15\, 2011\, American online poker players logged in and found a US government seizure notice. One site\, prosecutors later said\, owed players $390 million and had about $60 million in the bank.\n\nThat day\, federal prosecutors in Manhattan unsealed charges against people behind the three biggest poker sites serving the US: PokerStars\, Full Tilt Poker and Absolute Poker. The charges included bank fraud\, illegal gambling and money laundering. Players called it Black Friday.\n\nMost players assumed their balances were sitting safely in an account somewhere. At Full Tilt\, prosecutors alleged\, they weren't.\n\nIn September 2011\, the government alleged that Full Tilt owed players around $390 million worldwide but had roughly $60 million on hand\, and that it had paid more than $440 million to its owners\, including famous pros.\n\n"Full Tilt was not a legitimate poker company\, but a global Ponzi scheme\," said US Attorney Preet Bharara.\n\nThe outcomes differed. CEO Ray Bitar pleaded guilty in 2013 and agreed to forfeit $40 million\; the judge spared him prison because of a serious heart condition. Board members Howard Lederer and Chris Ferguson settled civil cases without admitting wrongdoing.\n\nPlayers were eventually rescued by a rival. In 2012\, PokerStars agreed a $731 million settlement with the US government\, without admitting wrongdoing\, and took over Full Tilt. By 2016\, about 45\,000 US players had been repaid roughly $114 million.\n\nThe lesson reaches well beyond poker: a balance on a screen is a promise\, not money in your hand. It is only worth as much as the honesty of whoever holds it.\n\nWhere do you keep money that you simply assume is safe?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261014-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261014T213000
+DTEND;TZID=Europe/London:20261014T214500
 SUMMARY:🎬 House rules: joke raise binding
 DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: rules-joke-raise-binding\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFacing a $35 bet\, he jokes "I have to raise you now"... then asks if that's binding.\n\nWould you hold him to a raise? What's the rule in your room?\n\nDon't say 'raise' unless you mean it.\n\nvia @ChampionsClubTX\nNote: no player names (Gem Filter brand-safety)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261014-2130@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261014T213000
-DTEND;TZID=Europe/London:20261014T214500
-SUMMARY:🎬 4% Club: Jerry 5-4 wins three run-outs
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 4pct-jerry-54-wins-three-runouts\nClip status: render NOT found on box\nPost text (as scheduled on X):\n5-4 offsuit calls a 4-bet.\n\nThen the money goes in against pocket jacks\, and they run it three times.\n\nWould you get it in with 5-4? 👇\n\nvia @ChampionsClubTX
-TRANSP:TRANSPARENT
-CATEGORIES:clip
-END:VEVENT
-BEGIN:VEVENT
 UID:slot-20261015-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261015T180000
 DTEND;TZID=Europe/London:20261015T181500
+SUMMARY:💬 Drama: Phil Ivey's £7.7 million that Britain's Supreme Court called cheating (edge sorting\, Crockfords & Borgata)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-03\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPhil Ivey won £7.7 million at a London casino in two days. The casino refused to pay. Five years later\, Britain's highest court said the casino was right.\n\nIvey is one of the most successful poker players ever. But in August 2012\, at Crockfords in Mayfair\, he was playing Punto Banco\, a form of baccarat where you simply bet on which hand will win. It is supposed to be pure chance.\n\nIvey and his associate\, Cheung Yin Sun\, used a technique called edge sorting. Some playing cards have tiny printing differences along their edges. Sun\, presenting it as superstition\, asked the dealer to turn certain cards around. The dealer had no idea why. Once the deck was set up\, Ivey could tell high cards from low ones before they were turned over.\n\nHe won about £7.7 million. Crockfords never paid.\n\nIvey sued. He openly described what he had done and insisted it was legitimate advantage play\, not cheating. The trial judge accepted that he genuinely believed that. In October 2017\, the UK Supreme Court unanimously ruled against him anyway.\n\n"He achieved the same result by duping the croupier\, and that is cheating as well\," Lord Hughes said\, summarising the judgment.\n\nA separate fight followed in America. Ivey and Sun had won $9.6 million at the Borgata in Atlantic City the same way. The casino paid\, then sued. A federal judge found no fraud but ruled they had broken their contract and ordered them to repay about $10.1 million. The sides settled in 2020 on undisclosed terms.\n\nThe idea worth keeping: spotting something others missed is skill. Quietly arranging the game so you can spot it is something else.\n\nWhere would you draw the line between being clever and being unfair?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261015-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261015T213000
+DTEND;TZID=Europe/London:20261015T214500
 SUMMARY:🎬 House rules: misheard bet fifteen fifty
 DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: rules-misheard-bet-fifteen-fifty\nClip status: render NOT found on box\nPost text (as scheduled on X):\nShe hears "fifteen" and puts 15 in... but the bet might have been fifty. Floor's called.\n\nHonest mistake. What should the ruling be: fifteen or fifty?\n\nNot sure of the bet? Ask the dealer before calling.\n\nvia @bestbet_jax\nNote: no player names (Gem Filter brand-safety)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261015-2130@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261015T213000
-DTEND;TZID=Europe/London:20261015T214500
-SUMMARY:🎬 Air Ball: Doc table talk vs Jeff's two pair
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-doc-talks-jeff-off-two-pair\nClip status: render NOT found on box\nPost text (as scheduled on X):\nJeff has two pair. Doc bets $1\,000 and will not stop talking ("I'll show you one for $300").\n\nJeff tanks for over two minutes.\n\nWould you call? 👇\n\nvia @ChampionsClubTX
-TRANSP:TRANSPARENT
-CATEGORIES:clip
-END:VEVENT
-BEGIN:VEVENT
 UID:slot-20261016-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261016T180000
 DTEND;TZID=Europe/London:20261016T181500
+SUMMARY:💬 Drama: UltimateBet 'God mode': the site where someone could see your cards (Russ Hamilton superuser scandal)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-04\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFor more than four years\, someone at a major online poker site could see other players' face-down cards. The regulator named a former world champion.\n\nUltimateBet was one of the biggest poker sites of the 2000s. Like all online poker\, it ran on trust. You can't see the other players. You just have to believe nobody can see your cards either.\n\nIn early 2008\, players began complaining about accounts whose results made no sense. The Kahnawake Gaming Commission\, which licensed the site\, investigated.\n\nIts final report found that a hidden software tool had let certain accounts see opponents' cards in real time\, from June 2003 to December 2007. It identified 23 accounts using 117 usernames.\n\nThe commission said there was "clear and convincing evidence" that Russ Hamilton\, winner of the 1994 World Series of Poker Main Event\, was the main person responsible for and benefiting from the cheating. UltimateBet's owner was fined $1.5 million and ordered to refund more than $22 million to players.\n\nIn 2013\, a former employee released audio of a 2008 meeting. On it\, Hamilton can be heard saying: "I did take this money and I'm not trying to make it right\, so let's get that out of the way."\n\nHamilton was never criminally charged over the cheating. At the time\, online poker sat in a legal grey area.\n\nThe uncomfortable idea: in online poker you are not only betting against the other players. You are betting that the people who run the software are honest. Nobody at the table can see it when they aren't.\n\nHow much of your money do you trust to a system you have no way of checking?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot\; Clip Lab audio clip NOT used (unofficial leaked audio of named living person)\; source-only reply
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261016-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261016T213000
+DTEND;TZID=Europe/London:20261016T214500
 SUMMARY:🎬 House rules: nit button angle
 DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: rules-nit-button-angle\nClip status: render NOT found on box\nPost text (as scheduled on X):\nNit game: win a pot and you toss your button in. He won one... and kept his button in front of him.\n\nHonest slip\, or is holding it an angle? Where do you draw the line?\n\nKeep table markers clear. Confusion can become an angle.\n\nvia @ChampionsClubTX\nNote: no player names (Gem Filter brand-safety)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261016-2130@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261016T213000
-DTEND;TZID=Europe/London:20261016T214500
-SUMMARY:🎬 4% Club: Jambros PLO run-twice chop
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 4pct-jambros-plo-run-twice-chop\nClip status: render NOT found on box\nPost text (as scheduled on X):\nA $27k PLO pot. Jambros has 6-6-5-5 vs trip nines and is 22% to win\, $6\,333 to call.\n\nThey agree to run it twice.\n\nCall or fold? 👇\n\nvia @ChampionsClubTX
-TRANSP:TRANSPARENT
-CATEGORIES:clip
-END:VEVENT
-BEGIN:VEVENT
 UID:slot-20261017-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261017T180000
 DTEND;TZID=Europe/London:20261017T181500
+SUMMARY:💬 Drama: Stu Ungar: $1 million\, then $800 (the greatest player who couldn't keep a dollar)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-05\nClip status: render NOT found on box\nPost text (as scheduled on X):\nStu Ungar won $1 million at the 1997 World Series of Poker. Eighteen months later\, he was found dead in a Las Vegas motel room with $800 in his pocket.\n\nUngar grew up on Manhattan's Lower East Side and was gambling for a living at 14\, beating gin rummy players several times his age.\n\nIn 1980 he entered his first Texas hold'em tournament: the World Series of Poker Main Event. He won it. He won it again in 1981.\n\nThen the years got away from him. He won and lost millions\, and struggled with drug addiction. By 1997\, according to the Las Vegas Sun\, he needed a friend to pay his way into the Main Event.\n\nHe won it a third time\, for $1 million in cash. On the broadcast\, he was asked if he would do things differently now.\n\n"There's nobody that ever beat me playing cards\," he said. "The only one that ever beat me was myself in my bad habits."\n\nTwo months later\, after paying some debts and losing heavily on horse and sports bets\, he was broke again. On November 22\, 1998\, he was found dead at the Oasis Motel\, aged 45. The coroner ruled the death accidental\, caused by heart disease brought on by his lifestyle.\n\nPoker has a word for what Ungar never managed: bankroll. It means keeping the money you play with separate from the money you live on\, and only risking what you can afford to lose. Being the best player at the table does not protect you from losing everything away from it.\n\nIs it harder to be brilliant at something\, or to be disciplined about it?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261017-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261017T213000
+DTEND;TZID=Europe/London:20261017T214500
 SUMMARY:🎬 House rules: slow roll etiquette
 DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: rules-slow-roll-etiquette\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAll in\, $900 to call\, and he's holding a full house... but he takes his time.\n\nSnap call\, or is tanking here fine? Where's the line on slow-rolling?\n\nGot the best hand? Call or show fast. Don't slow-roll.\n\nvia @ChampionsClubTX\nNote: no player names (Gem Filter brand-safety)\; no source reply
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261017-2130@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261017T213000
-DTEND;TZID=Europe/London:20261017T214500
-SUMMARY:🎬 Cooler: Mario top set vs nut flush draw
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: bestbet-mario-set-vs-hc\nCaption hook: Top set vs nut flush draw + gutshot. With that many outs he’s nearly coinflipping.\nCredit: bestbetLIVE\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nTop set vs a nut flush draw + gutshot.\n\nWith that many outs\, the draw is close to a coin flip. Both are right to get it in.\n\nWho are you rooting for? 👇\n\nvia bestbetLIVE
-TRANSP:TRANSPARENT
-CATEGORIES:clip
-END:VEVENT
-BEGIN:VEVENT
 UID:slot-20261018-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261018T180000
 DTEND;TZID=Europe/London:20261018T181500
+SUMMARY:💬 Drama: The $86 bluff that started the poker boom (Chris Moneymaker vs Sam Farha\, 2003)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-06\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAn accountant turned an $86 online tournament into $2.5 million. Then millions of people decided they could do it too.\n\nIn 2003\, Chris Moneymaker was a 27-year-old accountant from Tennessee. He had never played a live poker tournament.\n\nHe entered an $86 qualifier on PokerStars. It won him a seat in a bigger qualifier\, which won him a $10\,000 seat at the World Series of Poker Main Event in Las Vegas. For years the story said $39. PokerStars' own records later showed $86.\n\nThere were 839 players. Moneymaker reached the final two against Sam Farha\, a seasoned pro.\n\nThen came the hand. Moneymaker had nothing: king-high\, no pair. Farha had a pair of nines\, the better hand. On the last card\, Moneymaker bet everything. That is a bluff: betting big with a weak hand to make your opponent believe you are strong.\n\nFarha thought it over and folded the winning hand.\n\n"I know we're early in the century\, but that's the bluff of the century\," said ESPN commentator Norman Chad.\n\nMoneymaker went on to win the title and $2.5 million. Three years later\, the Main Event drew 8\,773 players. The poker boom had a face.\n\nThe lesson of that hand is not "be fearless". A bluff only works if the story makes sense. Moneymaker's earlier bets fitted a strong hand\, and the cards on the table offered several. Farha wasn't beaten by courage. He was beaten by a believable story.\n\nHave you ever been talked out of something you were right about\, just because the other person seemed so sure?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot\; clip not attached natively (third-party ESPN upload\, copyright risk)
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261018-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261018T213000
+DTEND;TZID=Europe/London:20261018T214500
 SUMMARY:🤔 Would You Call? Second pair vs river barrel
 DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-second-pair\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Sun 11 13:30.
 TRANSP:TRANSPARENT
 CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261018-2130@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261018T213000
-DTEND;TZID=Europe/London:20261018T214500
-SUMMARY:🎬 Hero call: Medi weak-queen live read
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-medi-weak-queen-call\nOn-screen hook: WEAK QUEEN / LIVE READ\nCaption hook: Medi’s live read: “weak queen.” Timing + sizing > guessing cards.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nMedi's live read: "weak queen." Then the call.\n\nTiming and bet sizing tell you more than guessing cards.\n\nWould you have called? 👇\n\nvia @tch_dallas
+UID:slot-20261019-1800@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261019T180000
+DTEND;TZID=Europe/London:20261019T181500
+SUMMARY:💬 Drama: Jamie Gold's $12 million and the voicemail that froze half of it (2006 WSOP)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-08\nClip status: render NOT found on box\nPost text (as scheduled on X):\nJamie Gold won $12 million at the World Series of Poker. Before he could collect it all\, a court froze half.\n\nIn 2006\, the World Series of Poker Main Event was the biggest it had ever been: 8\,773 players. Gold\, a former Hollywood talent agent\, outlasted them all and won $12 million.\n\nWithin weeks\, TV producer Crispin Leyser sued him. Leyser said Gold had promised him half the winnings in return for recruiting celebrities to wear a poker site's logo at the tournament.\n\nHis evidence was a voicemail. On the final day of the tournament\, according to Card Player\, Gold left a message promising Leyser "your half".\n\nGold had already withdrawn $6 million. A court froze the other $6 million\, which sat in the Rio casino's vault while lawyers argued. In December 2006\, the judge indicated Leyser would likely win his claim.\n\nIn February 2007 they settled. The terms were never disclosed. Their joint statement said: "Jamie always intended on sharing his winnings with Crispin."\n\nGold later called it a misunderstanding that should never have reached court.\n\nThis is one of poker's oldest problems. Players constantly make side deals: splitting winnings\, swapping percentages\, backing each other. Most are handshakes or text messages. They feel friendly when you make them. They feel very different once one side is suddenly holding $12 million.\n\nThe fix is boring and it works: if a promise could ever be worth real money\, write down exactly what it means before anyone wins.\n\nHave you ever made a casual promise that would look completely different if it were suddenly worth millions?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261019-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261019T213000
+DTEND;TZID=Europe/London:20261019T214500
+SUMMARY:🎬 Hero call: ATC T8 vs Deanny/Devany barrel
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-atc-t8-vs-deanny-barrel\nOn-screen hook: SECOND PAIR CALL / HERO CALL\nCaption hook: Second pair calls a river barrel. Missed-draw boards + aggression = often air.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nYou voted CALL or FOLD. Here's what happened.\n\nSecond pair calls a river barrel. When the draws miss and the betting gets louder\, it's often air.\n\nvia @texascardhouse
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261019-1800@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261019T180000
-DTEND;TZID=Europe/London:20261019T181500
+UID:slot-20261020-1800@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261020T180000
+DTEND;TZID=Europe/London:20261020T181500
+SUMMARY:💬 Drama: Ali Imsirovic: Player of the Year to a $320\,000 seizure (partial confession)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-09\nClip status: render NOT found on box\nPost text (as scheduled on X):\nIn 2021\, Ali Imsirovic was named poker's Player of the Year. Two years later\, he admitted multi-accounting\, a form of online poker cheating\, and said $320\,000 had been seized from him.\n\nImsirovic rose fast. He won the Poker Masters in 2018\, then spent the next years collecting big wins in the most expensive tournaments in the world.\n\nIn April 2022\, other high-stakes players said he had been banned by the online site GGPoker. The accusations included multi-accounting\, ghosting and real-time assistance.\n\nIn plain words: multi-accounting means entering the same tournament under several names\, so you get extra chances to win. Ghosting means someone secretly makes decisions for another player. Real-time assistance means software that tells you the best move while you play.\n\nHe stayed silent for more than a year\, and was barred from PokerGO's tournaments.\n\nIn June 2023 he posted a 30-minute video. He admitted multi-accounting\, confirmed the GGPoker ban and said the site seized $320\,000. He also admitted going back to it briefly after he had been caught.\n\n"I have multi-accounted a bunch\, so I have no interest in denying that. It happened. I regret it\, but it happened\," he said.\n\nBut he firmly denied using real-time assistance or ghosting\, and rejected other accusations against him. Much of the poker world reacted badly\, feeling he spent more time on what he didn't do than on what he did.\n\nThat is the strange power of a partial confession. Admitting one thing can make your other denials sound more believable. It can also make people wonder what else you haven't admitted.\n\nWhen someone admits part of what they're accused of\, do you trust their denials more\, or less?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261020-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261020T213000
+DTEND;TZID=Europe/London:20261020T214500
 SUMMARY:🤔 Would You Call? Tens vs check-raise + river jam
 DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-tens\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Mon 12 13:30.
 TRANSP:TRANSPARENT
 CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
-UID:slot-20261019-2130@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261019T213000
-DTEND;TZID=Europe/London:20261019T214500
-SUMMARY:🎬 Hero call: ATC T8 vs Deanny/Devany barrel
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-atc-t8-vs-deanny-barrel\nOn-screen hook: SECOND PAIR CALL / HERO CALL\nCaption hook: Second pair calls a river barrel. Missed-draw boards + aggression = often air.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nYou voted CALL or FOLD. Here's what happened.\n\nSecond pair calls a river barrel. When the draws miss and the betting gets louder\, it's often air.\n\nvia @tch_dallas
-TRANSP:TRANSPARENT
-CATEGORIES:clip
-END:VEVENT
-BEGIN:VEVENT
-UID:slot-20261020-1800@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261020T180000
-DTEND;TZID=Europe/London:20261020T181500
-SUMMARY:🎬 Cooler: Josh/George tens kicker
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: bestbet-josh-george-tens-kicker\nCaption hook: Both hit tens. Same pair cooler — kicker decides it\; neither is wrong to stack.\nCredit: bestbetLIVE\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nBoth players hit tens.\n\nSame pair\, so the kicker decides it\, and neither player is wrong to stack off.\n\nWho's winning? 👇\n\nvia bestbetLIVE
-TRANSP:TRANSPARENT
-CATEGORIES:clip
-END:VEVENT
-BEGIN:VEVENT
-UID:slot-20261020-2130@devonstpoker
-DTSTAMP:20261010T074347Z
-DTSTART;TZID=Europe/London:20261020T213000
-DTEND;TZID=Europe/London:20261020T214500
-SUMMARY:🎬 Hero call: Brian TT vs check-raise + river jam
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-brian-tt-vs-river-jam\nOn-screen hook: TENS CALL / HERO CALL\nCaption hook: Tens vs check-raise + river jam. Missed-draw lines raise for fold equity — tens hold.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nYou voted CALL or FOLD on the tens spot. Here's what happened.\n\nTens vs a check-raise + river jam. Missed draws raise for fold equity\, so the tens hold.\n\nvia @tch_dallas
-TRANSP:TRANSPARENT
-CATEGORIES:clip
-END:VEVENT
-BEGIN:VEVENT
 UID:slot-20261021-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261021T180000
 DTEND;TZID=Europe/London:20261021T181500
-SUMMARY:💬 Text: sickest cooler ask (no Article link)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat5-sickest-cooler-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFull house vs a bigger full house. Set into top set. Kings into aces.\n\nWhat's the sickest cooler you've ever seen live? 👇
+SUMMARY:💬 Drama: Polk vs Negreanu: the grudge match that took 25\,000 hands to settle
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-10\nClip status: render NOT found on box\nPost text (as scheduled on X):\nTwo poker stars who openly disliked each other agreed to settle it at the table. 25\,000 hands later\, one of them was $1.2 million richer.\n\nDoug Polk and Daniel Negreanu had traded insults online for years. Polk had made his name in heads-up poker\, meaning one-on-one. Negreanu is one of the most famous players in the world\, but heads-up was not his speciality.\n\nSo they set terms: 25\,000 hands of one-on-one online poker at $200/$400 blinds\, stakes where pots regularly reached tens of thousands of dollars.\n\nBetting markets made Polk roughly a 4-to-1 favourite. Negreanu had big days\, including one session where he won nearly $400\,000. But over 36 sessions and three months\, Polk pulled ahead and stayed there. In February 2021 he finished up $1\,201\,807.\n\n"He's a great player and obviously the favorite going in\," Negreanu said afterwards. Polk returned the compliment: "If you're not a heads-up pro\, he's going to beat you."\n\nBy the end\, the two had shared a study session and\, in Polk's words\, buried the hatchet.\n\nThe real lesson is in the number of hands. In poker\, a weaker player can win a session\, a day\, even a week. Luck is loud over short stretches. Skill only shows up clearly over thousands of hands. That is why they agreed to 25\,000 hands\, not 250.\n\nThe match settled a feud. It also showed how long you have to watch before you can tell luck from skill.\n\nWhat have you judged too quickly\, before you had seen enough results to really know?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261021-2130@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261021T213000
 DTEND;TZID=Europe/London:20261021T214500
-SUMMARY:🎬 Cooler: Queens dream spot vs George
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: bestbet-qq-dream-vs-george\nOn-screen hook: QUEENS / DREAM SPOT\nCaption hook: QQ dream spot on a jack-high board. Overpair dominates most of George’s range.\nCredit: bestbetLIVE\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nQueens on a jack-high board.\n\nAn overpair dominates most of the hands that call here. Dream spot.\n\nHow much would you bet? 👇\n\nvia bestbetLIVE
+SUMMARY:🎬 Hero call: Brian TT vs check-raise + river jam
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-brian-tt-vs-river-jam\nOn-screen hook: TENS CALL / HERO CALL\nCaption hook: Tens vs check-raise + river jam. Missed-draw lines raise for fold equity — tens hold.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nYou voted CALL or FOLD on the tens spot. Here's what happened.\n\nTens vs a check-raise + river jam. Missed draws raise for fold equity\, so the tens hold.\n\nvia @texascardhouse
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261022-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261022T180000
 DTEND;TZID=Europe/London:20261022T181500
 SUMMARY:📰 Hero Calls Article satellite: calling station vs hero caller (week's Article link)
@@ -348,17 +348,17 @@ CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261022-2130@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261022T213000
 DTEND;TZID=Europe/London:20261022T214500
 SUMMARY:🎬 Hero call: Will ace-high calldown vs Bingo
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-will-acehigh-calldown-vs-bingo\nOn-screen hook: ACE-HIGH CALLDOWN / HERO CALL\nCaption hook: Ace-high call-down vs Bingo. Aggression that doesn’t match a real hand = bluff. Ace-high good.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nAce-high call-down vs Bingo. No pair\, just a read.\n\nWhen the aggression doesn't match a real hand\, it's usually a bluff.\n\nWould you have called? 👇\n\nvia @tch_dallas
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-will-acehigh-calldown-vs-bingo\nOn-screen hook: ACE-HIGH CALLDOWN / HERO CALL\nCaption hook: Ace-high call-down vs Bingo. Aggression that doesn’t match a real hand = bluff. Ace-high good.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nAce-high call-down vs Bingo. No pair\, just a read.\n\nWhen the aggression doesn't match a real hand\, it's usually a bluff.\n\nWould you have called? 👇\n\nvia @texascardhouse
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261023-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261023T180000
 DTEND;TZID=Europe/London:20261023T181500
 SUMMARY:💬 Text: set vs set (no Article link)
@@ -368,17 +368,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261023-2130@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261023T213000
 DTEND;TZID=Europe/London:20261023T214500
-SUMMARY:💬 Poker Word of the Day: Hero call
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: word-of-the-day-hero-call\nClip status: render NOT found on box\nNote: Existing text kept (null in manifest). From Fri 9 13:30.
+SUMMARY:🎬 Air Ball: Wave 9-high bluff vs A2
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-wave-96-bluffs-a2\nClip status: render NOT found on box\nPost text (as scheduled on X):\nHis draw missed. Nine-high on the river.\n\nThe board paired twice\, so Derek's A♣2♣ has the best hand. Wave bets $200 anyway.\n\nWould you call with ace-high? 👇\n\nvia @ChampionsClubTX
 TRANSP:TRANSPARENT
-CATEGORIES:community
+CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261024-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261024T180000
 DTEND;TZID=Europe/London:20261024T181500
 SUMMARY:💬 Text: in a cooler nobody plays badly (no Article link)
@@ -388,17 +388,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261024-2130@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261024T213000
 DTEND;TZID=Europe/London:20261024T214500
 SUMMARY:🎬 Hero Calls satellite: ATM ace-high (pinned-on-profile\, no link)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: hero-sat2-atm-pinned\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAce-high. River jam. Most players fold without thinking.\n\nATM calls\, and he's right.\n\nWould you have called? 👇\n\nvia @tch_dallas\nArticle: Hero Calls Explained: How Live Players Call With "Nothing" and Get It Right (https://x.com/DevonStPoker/status/2107899667157762446\, live 2026-10-07 19:23 UK)\nNote: Pinned-on-profile satellite (no Article link in the main post). Media is the ATM ace-high clip.
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: hero-sat2-atm-pinned\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAce-high. River jam. Most players fold without thinking.\n\nATM calls\, and he's right.\n\nWould you have called? 👇\n\nvia @texascardhouse\nArticle: Hero Calls Explained: How Live Players Call With "Nothing" and Get It Right (https://x.com/DevonStPoker/status/2107899667157762446\, live 2026-10-07 19:23 UK)\nNote: Pinned-on-profile satellite (no Article link in the main post). Media is the ATM ace-high clip.
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261025-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261025T180000
 DTEND;TZID=Europe/London:20261025T181500
 SUMMARY:💬 Text: why didn't one of them fold? (no Article link)
@@ -407,8 +407,18 @@ TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
+UID:slot-20261025-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261025T213000
+DTEND;TZID=Europe/London:20261025T214500
+SUMMARY:🎬 4% Club: Jerry 5-4 wins three run-outs
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 4pct-jerry-54-wins-three-runouts\nClip status: render NOT found on box\nPost text (as scheduled on X):\n5-4 offsuit calls a 4-bet.\n\nThen the money goes in against pocket jacks\, and they run it three times.\n\nWould you get it in with 5-4? 👇\n\nvia @ChampionsClubTX
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
 UID:slot-20261026-1800@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261026T180000
 DTEND;TZID=Europe/London:20261026T181500
 SUMMARY:📰 Coolers Article satellite: Kings vs queens (week's Article link)
@@ -417,8 +427,98 @@ TRANSP:TRANSPARENT
 CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
+UID:slot-20261026-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261026T213000
+DTEND;TZID=Europe/London:20261026T214500
+SUMMARY:🎬 Air Ball: Doc table talk vs Jeff's two pair
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: airball-doc-talks-jeff-off-two-pair\nClip status: render NOT found on box\nPost text (as scheduled on X):\nJeff has two pair. Doc bets $1\,000 and will not stop talking ("I'll show you one for $300").\n\nJeff tanks for over two minutes.\n\nWould you call? 👇\n\nvia @ChampionsClubTX
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261027-1800@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261027T180000
+DTEND;TZID=Europe/London:20261027T181500
+SUMMARY:🎬 Hero call: Medi weak-queen live read
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: tch-medi-weak-queen-call\nOn-screen hook: WEAK QUEEN / LIVE READ\nCaption hook: Medi’s live read: “weak queen.” Timing + sizing > guessing cards.\nCredit: TCH LIVE Poker Dallas $2/$5\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nMedi's live read: "weak queen." Then the call.\n\nTiming and bet sizing tell you more than guessing cards.\n\nWould you have called? 👇\n\nvia @texascardhouse
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261027-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261027T213000
+DTEND;TZID=Europe/London:20261027T214500
+SUMMARY:💬 Teach line: pot odds
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: teach-pot-odds-basic\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPot odds\, simple version:\n\nThere's $150 in the pot after their bet\, and it costs you $50 to call.\n\nYou're putting in $50 to win $200 total\, so you need to win more than 25% of the time.\n\nThat's the whole idea. Which spots still confuse you? 👇
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261028-1800@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261028T180000
+DTEND;TZID=Europe/London:20261028T181500
+SUMMARY:🎬 4% Club: Jambros PLO run-twice chop
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 4pct-jambros-plo-run-twice-chop\nClip status: render NOT found on box\nPost text (as scheduled on X):\nA $27k PLO pot. Jambros has 6-6-5-5 vs trip nines and is 22% to win\, $6\,333 to call.\n\nThey agree to run it twice.\n\nCall or fold? 👇\n\nvia @ChampionsClubTX
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261028-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261028T213000
+DTEND;TZID=Europe/London:20261028T214500
+SUMMARY:💬 Poker Word of the Day: Hero call
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: word-of-the-day-hero-call\nClip status: render NOT found on box\nNote: Existing text kept (null in manifest). From Fri 9 13:30.
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261029-1800@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261029T180000
+DTEND;TZID=Europe/London:20261029T181500
+SUMMARY:🎬 Cooler: Mario top set vs nut flush draw
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: bestbet-mario-set-vs-hc\nCaption hook: Top set vs nut flush draw + gutshot. With that many outs he’s nearly coinflipping.\nCredit: bestbetLIVE\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nTop set vs a nut flush draw + gutshot.\n\nWith that many outs\, the draw is close to a coin flip. Both are right to get it in.\n\nWho are you rooting for? 👇\n\nvia bestbetLIVE
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261029-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261029T213000
+DTEND;TZID=Europe/London:20261029T214500
+SUMMARY:💬 Text: sickest cooler ask (no Article link)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat5-sickest-cooler-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFull house vs a bigger full house. Set into top set. Kings into aces.\n\nWhat's the sickest cooler you've ever seen live? 👇
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261030-1800@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261030T180000
+DTEND;TZID=Europe/London:20261030T181500
+SUMMARY:🎬 Cooler: Josh/George tens kicker
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: bestbet-josh-george-tens-kicker\nCaption hook: Both hit tens. Same pair cooler — kicker decides it\; neither is wrong to stack.\nCredit: bestbetLIVE\nClip status: v5 rendered with teach-line VO\, in approved folders\nPost text (as scheduled on X):\nBoth players hit tens.\n\nSame pair\, so the kicker decides it\, and neither player is wrong to stack off.\n\nWho's winning? 👇\n\nvia bestbetLIVE
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261030-2130@devonstpoker
+DTSTAMP:20261012T074650Z
+DTSTART;TZID=Europe/London:20261030T213000
+DTEND;TZID=Europe/London:20261030T214500
+SUMMARY:❔ Community post (TBD)
+DESCRIPTION:Status: TBD (nothing booked in the box files yet)\nNote: Nothing recorded for this slot in the box files. Plan pillars for gaps: P4 beginner tools (Word of the Day\, outs quiz\, myth-buster) or P5 community ask.
+TRANSP:TRANSPARENT
+CATEGORIES:tbd
+END:VEVENT
+BEGIN:VEVENT
 UID:routine-0805-daily@devonstpoker
-DTSTAMP:20261010T074347Z
+DTSTAMP:20261012T074650Z
 DTSTART;TZID=Europe/London:20261008T080500
 DTEND;TZID=Europe/London:20261008T082000
 SUMMARY:⏰ 08:05 queue routine (devonstpoker-3-day-schedule)
