@@ -28,7 +28,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:slot-20261008-1200@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261008T120000
 DTEND;TZID=Europe/London:20261008T121500
 SUMMARY:✅ 🧊 Cooler clip #1 of triple (Cooler Files)
@@ -38,7 +38,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1330@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261008T133000
 DTEND;TZID=Europe/London:20261008T134500
 SUMMARY:✅ 🧊 Cooler clip #2 of triple (Cooler Files)
@@ -48,7 +48,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1500@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261008T150000
 DTEND;TZID=Europe/London:20261008T151500
 SUMMARY:✅ 🧊 Cooler clip #3 of triple (Cooler Files)
@@ -58,7 +58,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1900@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261008T190000
 DTEND;TZID=Europe/London:20261008T191500
 SUMMARY:✅ 🎬 Air Ball: Baba ten-high triple barrel
@@ -68,7 +68,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261009-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261009T180000
 DTEND;TZID=Europe/London:20261009T181500
 SUMMARY:✅ 🤔 Would You Call? Ace-high vs river jam
@@ -78,7 +78,7 @@ CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261009-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261009T213000
 DTEND;TZID=Europe/London:20261009T214500
 SUMMARY:✅ 🎬 Hero call: ATM ace-high vs Bingo jam
@@ -88,7 +88,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261010-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261010T180000
 DTEND;TZID=Europe/London:20261010T181500
 SUMMARY:✅ 🎬 House rules: betting line
@@ -98,7 +98,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261010-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261010T213000
 DTEND;TZID=Europe/London:20261010T214500
 SUMMARY:✅ 🎬 Air Ball: Katie king-high raise vs ace-high
@@ -108,17 +108,17 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1515@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261011T151500
 DTEND;TZID=Europe/London:20261011T153000
 SUMMARY:📌 Pin action (on hold)
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nArticle: Coolers Explained: Why Both Players Are Happy to Put All the Money In (https://x.com/DevonStPoker/status/2107873647033532534\, live 2026-10-07 17:40 UK)\nNote: Pin on hold pending Ben's OK on the profile refresh (the diagnosis suggests pinning the Coolers Explained Article).
+DESCRIPTION:Status: done\nArticle: Coolers Explained: Why Both Players Are Happy to Put All the Money In (https://x.com/DevonStPoker/status/2107873647033532534\, live 2026-10-07 17:40 UK)\nNote: Pin on hold pending Ben's OK on the profile refresh (the diagnosis suggests pinning the Coolers Explained Article). | Done 12 Oct: Hero Calls Article pinned.
 TRANSP:TRANSPARENT
 CATEGORIES:action
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261011T180000
 DTEND;TZID=Europe/London:20261011T181500
 SUMMARY:✅ 🎬 House rules: verbal fold full house
@@ -128,7 +128,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261011T213000
 DTEND;TZID=Europe/London:20261011T214500
 SUMMARY:✅ 🎬 Hero call: Baba queen-high vs Katie's $900
@@ -138,7 +138,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261012-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261012T180000
 DTEND;TZID=Europe/London:20261012T181500
 SUMMARY:✅ 🎬 House rules: verbal amount fifteen
@@ -148,7 +148,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261012-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261012T213000
 DTEND;TZID=Europe/London:20261012T214500
 SUMMARY:✅ 🎬 4% Club: Mr. J 4-3 cracks kings
@@ -158,7 +158,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261013-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261013T180000
 DTEND;TZID=Europe/London:20261013T181500
 SUMMARY:✅ 💬 Drama: The $2.7 million in fake chips a toilet gave away (Christian Lusardi\, Borgata 2014)
@@ -168,7 +168,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261013-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261013T213000
 DTEND;TZID=Europe/London:20261013T214500
 SUMMARY:✅ 💬 Would You Bet? Flopped full house 7-7 on 7-2-2
@@ -178,7 +178,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261014-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261014T180000
 DTEND;TZID=Europe/London:20261014T181500
 SUMMARY:✅ 💬 Drama: Black Friday: the day $390 million became a promise (Full Tilt\, April 15\, 2011)
@@ -188,7 +188,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261014-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261014T213000
 DTEND;TZID=Europe/London:20261014T214500
 SUMMARY:✅ 💬 Teach line: position (ace-jack button vs UTG)
@@ -198,27 +198,27 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261015-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261015T180000
 DTEND;TZID=Europe/London:20261015T181500
-SUMMARY:💬 Drama: Phil Ivey's £7.7 million that Britain's Supreme Court called cheating (edge sorting\, Crockfords & Borgata)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-03-text\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPhil Ivey won £7.7 million at a London casino in two days. The casino refused to pay. Five years later\, Britain's highest court said the casino was right.\n\nIvey is one of the most successful poker players ever. But in August 2012\, at Crockfords in Mayfair\, he was playing Punto Banco\, a form of baccarat where you simply bet on which hand will win. It is supposed to be pure chance.\n\nIvey and his associate\, Cheung Yin Sun\, used a technique called edge sorting. Some playing cards have tiny printing differences along their edges. Sun\, presenting it as superstition\, asked the dealer to turn certain cards around. The dealer had no idea why. Once the deck was set up\, Ivey could tell high cards from low ones before they were turned over.\n\nHe won about £7.7 million. Crockfords never paid.\n\nIvey sued. He openly described what he had done and insisted it was legitimate advantage play\, not cheating. The trial judge accepted that he genuinely believed that. In October 2017\, the UK Supreme Court unanimously ruled against him anyway.\n\n"He achieved the same result by duping the croupier\, and that is cheating as well\," Lord Hughes said\, summarising the judgment.\n\nA separate fight followed in America. Ivey and Sun had won $9.6 million at the Borgata in Atlantic City the same way. The casino paid\, then sued. A federal judge found no fraud but ruled they had broken their contract and ordered them to repay about $10.1 million. The sides settled in 2020 on undisclosed terms.\n\nThe idea worth keeping: spotting something others missed is skill. Quietly arranging the game so you can spot it is something else.\n\nWhere would you draw the line between being clever and being unfair?\nNote: text-only\, clip held for Ben approval
+SUMMARY:✅ 💬 Drama: Phil Ivey's £7.7 million that Britain's Supreme Court called cheating (edge sorting\, Crockfords & Borgata)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2110777728966504750\nClip slug: drama-03-text\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPhil Ivey won £7.7 million at a London casino in two days. The casino refused to pay. Five years later\, Britain's highest court said the casino was right.\n\nIvey is one of the most successful poker players ever. But in August 2012\, at Crockfords in Mayfair\, he was playing Punto Banco\, a form of baccarat where you simply bet on which hand will win. It is supposed to be pure chance.\n\nIvey and his associate\, Cheung Yin Sun\, used a technique called edge sorting. Some playing cards have tiny printing differences along their edges. Sun\, presenting it as superstition\, asked the dealer to turn certain cards around. The dealer had no idea why. Once the deck was set up\, Ivey could tell high cards from low ones before they were turned over.\n\nHe won about £7.7 million. Crockfords never paid.\n\nIvey sued. He openly described what he had done and insisted it was legitimate advantage play\, not cheating. The trial judge accepted that he genuinely believed that. In October 2017\, the UK Supreme Court unanimously ruled against him anyway.\n\n"He achieved the same result by duping the croupier\, and that is cheating as well\," Lord Hughes said\, summarising the judgment.\n\nA separate fight followed in America. Ivey and Sun had won $9.6 million at the Borgata in Atlantic City the same way. The casino paid\, then sued. A federal judge found no fraud but ruled they had broken their contract and ordered them to repay about $10.1 million. The sides settled in 2020 on undisclosed terms.\n\nThe idea worth keeping: spotting something others missed is skill. Quietly arranging the game so you can spot it is something else.\n\nWhere would you draw the line between being clever and being unfair?\nNote: text-only\, clip held for Ben approval | 16 Oct calendar refresh: confirmed posted on X
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261015-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261015T213000
 DTEND;TZID=Europe/London:20261015T214500
-SUMMARY:🎬 T7 Wild Wednesday Jerry runner-runner (music)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: v6-T7\nClip status: render NOT found on box\nPost text (as scheduled on X):\nJacks into aces. Run it twice.\n\nRun two hands the Commish a set and 86%.\n\nRunning it twice cuts variance. It doesn't promise you a split. What do the last two cards do?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
+SUMMARY:✅ 🎬 T7 Wild Wednesday Jerry runner-runner (music)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2110830571232604509\nClip slug: v6-T7\nClip status: render NOT found on box\nPost text (as scheduled on X):\nJacks into aces. Run it twice.\n\nRun two hands the Commish a set and 86%.\n\nRunning it twice cuts variance. It doesn't promise you a split. What do the last two cards do?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261016-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261016T180000
 DTEND;TZID=Europe/London:20261016T181500
 SUMMARY:💬 Drama: UltimateBet 'God mode': the site where someone could see your cards (Russ Hamilton superuser scandal)
@@ -228,7 +228,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261016-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261016T213000
 DTEND;TZID=Europe/London:20261016T214500
 SUMMARY:🎬 T9 HCL KGao one-outer (music)
@@ -238,7 +238,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261017-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261017T180000
 DTEND;TZID=Europe/London:20261017T181500
 SUMMARY:💬 Drama: Stu Ungar: $1 million\, then $800 (the greatest player who couldn't keep a dollar)
@@ -248,7 +248,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261017-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261017T213000
 DTEND;TZID=Europe/London:20261017T214500
 SUMMARY:🎬 T10 HCL Global Danny three-way runner-runner (music)
@@ -258,7 +258,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261018-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261018T180000
 DTEND;TZID=Europe/London:20261018T181500
 SUMMARY:💬 Drama: The $86 bluff that started the poker boom (Chris Moneymaker vs Sam Farha\, 2003)
@@ -268,7 +268,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261018-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261018T213000
 DTEND;TZID=Europe/London:20261018T214500
 SUMMARY:🎬 T11 HCL Anastasia runner-runner boat (music)
@@ -278,7 +278,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261019-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261019T180000
 DTEND;TZID=Europe/London:20261019T181500
 SUMMARY:💬 Drama: Jamie Gold's $12 million and the voicemail that froze half of it (2006 WSOP)
@@ -288,7 +288,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261019-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261019T213000
 DTEND;TZID=Europe/London:20261019T214500
 SUMMARY:🎬 T12 WPT Prime Lodge two-outer (music)
@@ -298,7 +298,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261020-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261020T180000
 DTEND;TZID=Europe/London:20261020T181500
 SUMMARY:💬 Drama: Ali Imsirovic: Player of the Year to a $320\,000 seizure (partial confession)
@@ -308,17 +308,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261020-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261020T213000
 DTEND;TZID=Europe/London:20261020T214500
 SUMMARY:🤔 Would You Call? Tens vs check-raise + river jam
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip slug: wyc-tens\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Mon 12 13:30. | Bumped from 2026-10-20 21:30 on 15 Oct for template video T7\; Poster must reschedule on X.
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-tens\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Mon 12 13:30. | Bumped from 2026-10-20 21:30 on 15 Oct for template video T7\; Poster must reschedule on X. | 16 Oct sync: verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261021-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261021T180000
 DTEND;TZID=Europe/London:20261021T181500
 SUMMARY:💬 Drama: Polk vs Negreanu: the grudge match that took 25\,000 hands to settle
@@ -328,17 +328,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261021-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261021T213000
 DTEND;TZID=Europe/London:20261021T214500
-SUMMARY:❔ Community post (TBD)
-DESCRIPTION:Status: TBD (nothing booked in the box files yet)\nNote: Nothing recorded for this slot in the box files. Plan pillars for gaps: P4 beginner tools (Word of the Day\, outs quiz\, myth-buster) or P5 community ask.
+SUMMARY:🎬 T6 Wild Wednesday one-outer (music)
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: v6-T6\nClip status: render NOT found on box\nPost text (as scheduled on X):\nBoth players on a diamond draw. One of them has the king.\n\nVegas Viet needs one very specific card\, and he's betting like he knows it's coming.\n\nA flush isn't the nuts on a paired board. Would you have called?\nNote: Ben approved directly in chat 15 Oct 21:30
 TRANSP:TRANSPARENT
-CATEGORIES:tbd
+CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261022-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261022T180000
 DTEND;TZID=Europe/London:20261022T181500
 SUMMARY:💬 Drama: Mike Postle (approved as written)
@@ -348,7 +348,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261022-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261022T213000
 DTEND;TZID=Europe/London:20261022T214500
 SUMMARY:💬 Would You Call?: ace high vs turn bet
@@ -358,7 +358,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261023-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261023T180000
 DTEND;TZID=Europe/London:20261023T181500
 SUMMARY:💬 Text: set vs set (no Article link)
@@ -368,17 +368,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261023-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261023T213000
 DTEND;TZID=Europe/London:20261023T214500
 SUMMARY:💬 House rules Q: nit button after winning pot
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip slug: placeholder-2026-10-16-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nnit game rule: win a pot\, toss your button in. love it or hate it\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-16 21:30 on 15 Oct for template video T12\; Poster must reschedule on X.
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: placeholder-2026-10-16-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nnit game rule: win a pot\, toss your button in. love it or hate it\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-16 21:30 on 15 Oct for template video T12\; Poster must reschedule on X. | 16 Oct sync: verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261024-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261024T180000
 DTEND;TZID=Europe/London:20261024T181500
 SUMMARY:💬 Text: in a cooler nobody plays badly (no Article link)
@@ -388,17 +388,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261024-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261024T213000
 DTEND;TZID=Europe/London:20261024T214500
 SUMMARY:💬 House rules Q: slow-roll in a friendly game
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip slug: placeholder-2026-10-17-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nslow-rolling the nuts in a friendly game. harmless banter or never ok?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-17 21:30 on 15 Oct for template video T9\; Poster must reschedule on X.
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: placeholder-2026-10-17-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nslow-rolling the nuts in a friendly game. harmless banter or never ok?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-17 21:30 on 15 Oct for template video T9\; Poster must reschedule on X. | 16 Oct sync: verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261025-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261025T180000
 DTEND;TZID=Europe/London:20261025T181500
 SUMMARY:💬 Text: why didn't one of them fold? (no Article link)
@@ -408,17 +408,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261025-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261025T213000
 DTEND;TZID=Europe/London:20261025T214500
 SUMMARY:🤔 Would You Call? Second pair vs river barrel
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip slug: wyc-second-pair\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Sun 11 13:30. | Bumped from 2026-10-18 21:30 on 15 Oct for template video T6\; Poster must reschedule on X.
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-second-pair\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Sun 11 13:30. | Bumped from 2026-10-18 21:30 on 15 Oct for template video T6\; Poster must reschedule on X. | 16 Oct sync: verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261026-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261026T180000
 DTEND;TZID=Europe/London:20261026T181500
 SUMMARY:📰 Coolers Article satellite: Kings vs queens (week's Article link)
@@ -428,17 +428,17 @@ CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261026-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261026T213000
 DTEND;TZID=Europe/London:20261026T214500
 SUMMARY:💬 House rules Q: joke raise binding
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip slug: placeholder-2026-10-19-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFacing a bet\, someone jokes "I have to raise you now." Binding or not in your room?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-19 21:30 on 15 Oct for template video T10\; Poster must reschedule on X.
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: placeholder-2026-10-19-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFacing a bet\, someone jokes "I have to raise you now." Binding or not in your room?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-19 21:30 on 15 Oct for template video T10\; Poster must reschedule on X. | 16 Oct sync: verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261027-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261027T180000
 DTEND;TZID=Europe/London:20261027T181500
 SUMMARY:💬 House rules Q: exposed card mid-hand
@@ -448,7 +448,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261027-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261027T213000
 DTEND;TZID=Europe/London:20261027T214500
 SUMMARY:💬 Teach line: pot odds
@@ -458,7 +458,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261028-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261028T180000
 DTEND;TZID=Europe/London:20261028T181500
 SUMMARY:💬 Filler: pocket jacks under the gun
@@ -468,7 +468,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261028-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261028T213000
 DTEND;TZID=Europe/London:20261028T214500
 SUMMARY:💬 Poker Word of the Day: Hero call
@@ -478,7 +478,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261029-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261029T180000
 DTEND;TZID=Europe/London:20261029T181500
 SUMMARY:💬 Filler: straddles make live games better?
@@ -488,7 +488,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261029-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261029T213000
 DTEND;TZID=Europe/London:20261029T214500
 SUMMARY:💬 Text: sickest cooler ask (no Article link)
@@ -498,17 +498,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261030-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261030T180000
 DTEND;TZID=Europe/London:20261030T181500
 SUMMARY:💬 Would You Call?: tens vs check-raise + river jam
-DESCRIPTION:Status: BOOKED in the plan (X scheduling not verified from box files)\nClip slug: placeholder-2026-10-21-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPocket tens facing a check-raise and then a river jam. Your two tens block ten-seven and queen-ten. Does that change anything for you?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-21 21:30 on 15 Oct for template video T11\; Poster must reschedule on X.
+DESCRIPTION:Status: dropped_duplicate\nClip slug: placeholder-2026-10-21-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPocket tens facing a check-raise and then a river jam. Your two tens block ten-seven and queen-ten. Does that change anything for you?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-21 21:30 on 15 Oct for template video T11\; Poster must reschedule on X. | 16 Oct: dropped\, duplicate of wyc-tens Tue 20 21:30\; slot empty on X.
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261030-2130@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261030T213000
 DTEND;TZID=Europe/London:20261030T214500
 SUMMARY:💬 Drama: Annette Obrestad WSOPE 2007
@@ -518,7 +518,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261102-1800@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261102T180000
 DTEND;TZID=Europe/London:20261102T181500
 SUMMARY:📰 Hero Calls Article satellite: calling station vs hero caller (week's Article link)
@@ -528,7 +528,7 @@ CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:routine-0805-daily@devonstpoker
-DTSTAMP:20261015T164520Z
+DTSTAMP:20261016T074308Z
 DTSTART;TZID=Europe/London:20261008T080500
 DTEND;TZID=Europe/London:20261008T082000
 SUMMARY:⏰ 08:05 queue routine (devonstpoker-3-day-schedule)
