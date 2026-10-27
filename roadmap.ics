@@ -28,7 +28,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:slot-20261008-1200@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261008T120000
 DTEND;TZID=Europe/London:20261008T121500
 SUMMARY:✅ 🧊 Cooler clip #1 of triple (Cooler Files)
@@ -38,7 +38,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1330@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261008T133000
 DTEND;TZID=Europe/London:20261008T134500
 SUMMARY:✅ 🧊 Cooler clip #2 of triple (Cooler Files)
@@ -48,7 +48,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1500@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261008T150000
 DTEND;TZID=Europe/London:20261008T151500
 SUMMARY:✅ 🧊 Cooler clip #3 of triple (Cooler Files)
@@ -58,7 +58,7 @@ CATEGORIES:cooler_clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261008-1900@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261008T190000
 DTEND;TZID=Europe/London:20261008T191500
 SUMMARY:✅ 🎬 Air Ball: Baba ten-high triple barrel
@@ -68,7 +68,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261009-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261009T180000
 DTEND;TZID=Europe/London:20261009T181500
 SUMMARY:✅ 🤔 Would You Call? Ace-high vs river jam
@@ -78,7 +78,7 @@ CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261009-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261009T213000
 DTEND;TZID=Europe/London:20261009T214500
 SUMMARY:✅ 🎬 Hero call: ATM ace-high vs Bingo jam
@@ -88,7 +88,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261010-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261010T180000
 DTEND;TZID=Europe/London:20261010T181500
 SUMMARY:✅ 🎬 House rules: betting line
@@ -98,7 +98,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261010-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261010T213000
 DTEND;TZID=Europe/London:20261010T214500
 SUMMARY:✅ 🎬 Air Ball: Katie king-high raise vs ace-high
@@ -108,7 +108,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1515@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261011T151500
 DTEND;TZID=Europe/London:20261011T153000
 SUMMARY:📌 Pin action (on hold)
@@ -118,7 +118,7 @@ CATEGORIES:action
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261011T180000
 DTEND;TZID=Europe/London:20261011T181500
 SUMMARY:✅ 🎬 House rules: verbal fold full house
@@ -128,7 +128,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261011-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261011T213000
 DTEND;TZID=Europe/London:20261011T214500
 SUMMARY:✅ 🎬 Hero call: Baba queen-high vs Katie's $900
@@ -138,7 +138,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261012-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261012T180000
 DTEND;TZID=Europe/London:20261012T181500
 SUMMARY:✅ 🎬 House rules: verbal amount fifteen
@@ -148,7 +148,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261012-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261012T213000
 DTEND;TZID=Europe/London:20261012T214500
 SUMMARY:✅ 🎬 4% Club: Mr. J 4-3 cracks kings
@@ -158,7 +158,7 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261013-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261013T180000
 DTEND;TZID=Europe/London:20261013T181500
 SUMMARY:✅ 💬 Drama: The $2.7 million in fake chips a toilet gave away (Christian Lusardi\, Borgata 2014)
@@ -168,7 +168,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261013-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261013T213000
 DTEND;TZID=Europe/London:20261013T214500
 SUMMARY:✅ 💬 Would You Bet? Flopped full house 7-7 on 7-2-2
@@ -178,7 +178,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261014-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261014T180000
 DTEND;TZID=Europe/London:20261014T181500
 SUMMARY:✅ 💬 Drama: Black Friday: the day $390 million became a promise (Full Tilt\, April 15\, 2011)
@@ -188,7 +188,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261014-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261014T213000
 DTEND;TZID=Europe/London:20261014T214500
 SUMMARY:✅ 💬 Teach line: position (ace-jack button vs UTG)
@@ -198,7 +198,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261015-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261015T180000
 DTEND;TZID=Europe/London:20261015T181500
 SUMMARY:✅ 💬 Drama: Phil Ivey's £7.7 million that Britain's Supreme Court called cheating (edge sorting\, Crockfords & Borgata)
@@ -208,7 +208,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261015-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261015T213000
 DTEND;TZID=Europe/London:20261015T214500
 SUMMARY:✅ 🎬 T7 Wild Wednesday Jerry runner-runner (music)
@@ -218,227 +218,227 @@ CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261016-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261016T180000
 DTEND;TZID=Europe/London:20261016T181500
-SUMMARY:💬 Drama: UltimateBet 'God mode': the site where someone could see your cards (Russ Hamilton superuser scandal)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-04\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFor more than four years\, someone at a major online poker site could see other players' face-down cards. The regulator named a former world champion.\n\nUltimateBet was one of the biggest poker sites of the 2000s. Like all online poker\, it ran on trust. You can't see the other players. You just have to believe nobody can see your cards either.\n\nIn early 2008\, players began complaining about accounts whose results made no sense. The Kahnawake Gaming Commission\, which licensed the site\, investigated.\n\nIts final report found that a hidden software tool had let certain accounts see opponents' cards in real time\, from June 2003 to December 2007. It identified 23 accounts using 117 usernames.\n\nThe commission said there was "clear and convincing evidence" that Russ Hamilton\, winner of the 1994 World Series of Poker Main Event\, was the main person responsible for and benefiting from the cheating. UltimateBet's owner was fined $1.5 million and ordered to refund more than $22 million to players.\n\nIn 2013\, a former employee released audio of a 2008 meeting. On it\, Hamilton can be heard saying: "I did take this money and I'm not trying to make it right\, so let's get that out of the way."\n\nHamilton was never criminally charged over the cheating. At the time\, online poker sat in a legal grey area.\n\nThe uncomfortable idea: in online poker you are not only betting against the other players. You are betting that the people who run the software are honest. Nobody at the table can see it when they aren't.\n\nHow much of your money do you trust to a system you have no way of checking?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot\; Clip Lab audio clip NOT used (unofficial leaked audio of named living person)\; source-only reply
+SUMMARY:✅ 💬 Drama: UltimateBet 'God mode': the site where someone could see your cards (Russ Hamilton superuser scandal)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2111140111211696632\nClip slug: drama-04\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFor more than four years\, someone at a major online poker site could see other players' face-down cards. The regulator named a former world champion.\n\nUltimateBet was one of the biggest poker sites of the 2000s. Like all online poker\, it ran on trust. You can't see the other players. You just have to believe nobody can see your cards either.\n\nIn early 2008\, players began complaining about accounts whose results made no sense. The Kahnawake Gaming Commission\, which licensed the site\, investigated.\n\nIts final report found that a hidden software tool had let certain accounts see opponents' cards in real time\, from June 2003 to December 2007. It identified 23 accounts using 117 usernames.\n\nThe commission said there was "clear and convincing evidence" that Russ Hamilton\, winner of the 1994 World Series of Poker Main Event\, was the main person responsible for and benefiting from the cheating. UltimateBet's owner was fined $1.5 million and ordered to refund more than $22 million to players.\n\nIn 2013\, a former employee released audio of a 2008 meeting. On it\, Hamilton can be heard saying: "I did take this money and I'm not trying to make it right\, so let's get that out of the way."\n\nHamilton was never criminally charged over the cheating. At the time\, online poker sat in a legal grey area.\n\nThe uncomfortable idea: in online poker you are not only betting against the other players. You are betting that the people who run the software are honest. Nobody at the table can see it when they aren't.\n\nHow much of your money do you trust to a system you have no way of checking?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot\; Clip Lab audio clip NOT used (unofficial leaked audio of named living person)\; source-only reply
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261016-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261016T213000
 DTEND;TZID=Europe/London:20261016T214500
-SUMMARY:🎬 T9 HCL KGao one-outer (music)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: v6-T9\nClip status: render NOT found on box\nPost text (as scheduled on X):\nKGao jams king-queen into a trap... and walks into a second trap behind it.\n\nThen the turn gives Bear Jew a set. And Pipi already folded a king.\n\nCount the dead cards before you count the outs. How many does he have?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
+SUMMARY:✅ 🎬 T9 HCL KGao one-outer (music)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2111192959118884910\nClip slug: v6-T9\nClip status: render NOT found on box\nPost text (as scheduled on X):\nKGao jams king-queen into a trap... and walks into a second trap behind it.\n\nThen the turn gives Bear Jew a set. And Pipi already folded a king.\n\nCount the dead cards before you count the outs. How many does he have?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261017-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261017T180000
 DTEND;TZID=Europe/London:20261017T181500
-SUMMARY:💬 Drama: Stu Ungar: $1 million\, then $800 (the greatest player who couldn't keep a dollar)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-05\nClip status: render NOT found on box\nPost text (as scheduled on X):\nStu Ungar won $1 million at the 1997 World Series of Poker. Eighteen months later\, he was found dead in a Las Vegas motel room with $800 in his pocket.\n\nUngar grew up on Manhattan's Lower East Side and was gambling for a living at 14\, beating gin rummy players several times his age.\n\nIn 1980 he entered his first Texas hold'em tournament: the World Series of Poker Main Event. He won it. He won it again in 1981.\n\nThen the years got away from him. He won and lost millions\, and struggled with drug addiction. By 1997\, according to the Las Vegas Sun\, he needed a friend to pay his way into the Main Event.\n\nHe won it a third time\, for $1 million in cash. On the broadcast\, he was asked if he would do things differently now.\n\n"There's nobody that ever beat me playing cards\," he said. "The only one that ever beat me was myself in my bad habits."\n\nTwo months later\, after paying some debts and losing heavily on horse and sports bets\, he was broke again. On November 22\, 1998\, he was found dead at the Oasis Motel\, aged 45. The coroner ruled the death accidental\, caused by heart disease brought on by his lifestyle.\n\nPoker has a word for what Ungar never managed: bankroll. It means keeping the money you play with separate from the money you live on\, and only risking what you can afford to lose. Being the best player at the table does not protect you from losing everything away from it.\n\nIs it harder to be brilliant at something\, or to be disciplined about it?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+SUMMARY:✅ 💬 Drama: Stu Ungar: $1 million\, then $800 (the greatest player who couldn't keep a dollar)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2111502500511801794\nClip slug: drama-05\nClip status: render NOT found on box\nPost text (as scheduled on X):\nStu Ungar won $1 million at the 1997 World Series of Poker. Eighteen months later\, he was found dead in a Las Vegas motel room with $800 in his pocket.\n\nUngar grew up on Manhattan's Lower East Side and was gambling for a living at 14\, beating gin rummy players several times his age.\n\nIn 1980 he entered his first Texas hold'em tournament: the World Series of Poker Main Event. He won it. He won it again in 1981.\n\nThen the years got away from him. He won and lost millions\, and struggled with drug addiction. By 1997\, according to the Las Vegas Sun\, he needed a friend to pay his way into the Main Event.\n\nHe won it a third time\, for $1 million in cash. On the broadcast\, he was asked if he would do things differently now.\n\n"There's nobody that ever beat me playing cards\," he said. "The only one that ever beat me was myself in my bad habits."\n\nTwo months later\, after paying some debts and losing heavily on horse and sports bets\, he was broke again. On November 22\, 1998\, he was found dead at the Oasis Motel\, aged 45. The coroner ruled the death accidental\, caused by heart disease brought on by his lifestyle.\n\nPoker has a word for what Ungar never managed: bankroll. It means keeping the money you play with separate from the money you live on\, and only risking what you can afford to lose. Being the best player at the table does not protect you from losing everything away from it.\n\nIs it harder to be brilliant at something\, or to be disciplined about it?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261017-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261017T213000
 DTEND;TZID=Europe/London:20261017T214500
-SUMMARY:🎬 T10 HCL Global Danny three-way runner-runner (music)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: v6-T10\nClip status: render NOT found on box\nPost text (as scheduled on X):\nThree-way all in. Global Danny's king-queen is 7% after the flop.\n\nTwo players at risk. Two cards to come.\n\n7% means roughly one in fourteen. Tonight's the one?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
+SUMMARY:✅ 🎬 T10 HCL Global Danny three-way runner-runner (music)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2111555348855181637\nClip slug: v6-T10\nClip status: render NOT found on box\nPost text (as scheduled on X):\nThree-way all in. Global Danny's king-queen is 7% after the flop.\n\nTwo players at risk. Two cards to come.\n\n7% means roughly one in fourteen. Tonight's the one?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261018-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261018T180000
 DTEND;TZID=Europe/London:20261018T181500
-SUMMARY:💬 Drama: The $86 bluff that started the poker boom (Chris Moneymaker vs Sam Farha\, 2003)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-06\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAn accountant turned an $86 online tournament into $2.5 million. Then millions of people decided they could do it too.\n\nIn 2003\, Chris Moneymaker was a 27-year-old accountant from Tennessee. He had never played a live poker tournament.\n\nHe entered an $86 qualifier on PokerStars. It won him a seat in a bigger qualifier\, which won him a $10\,000 seat at the World Series of Poker Main Event in Las Vegas. For years the story said $39. PokerStars' own records later showed $86.\n\nThere were 839 players. Moneymaker reached the final two against Sam Farha\, a seasoned pro.\n\nThen came the hand. Moneymaker had nothing: king-high\, no pair. Farha had a pair of nines\, the better hand. On the last card\, Moneymaker bet everything. That is a bluff: betting big with a weak hand to make your opponent believe you are strong.\n\nFarha thought it over and folded the winning hand.\n\n"I know we're early in the century\, but that's the bluff of the century\," said ESPN commentator Norman Chad.\n\nMoneymaker went on to win the title and $2.5 million. Three years later\, the Main Event drew 8\,773 players. The poker boom had a face.\n\nThe lesson of that hand is not "be fearless". A bluff only works if the story makes sense. Moneymaker's earlier bets fitted a strong hand\, and the cards on the table offered several. Farha wasn't beaten by courage. He was beaten by a believable story.\n\nHave you ever been talked out of something you were right about\, just because the other person seemed so sure?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot\; clip not attached natively (third-party ESPN upload\, copyright risk)
+SUMMARY:✅ 💬 Drama: The $86 bluff that started the poker boom (Chris Moneymaker vs Sam Farha\, 2003)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2111864894928871734\nClip slug: drama-06\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAn accountant turned an $86 online tournament into $2.5 million. Then millions of people decided they could do it too.\n\nIn 2003\, Chris Moneymaker was a 27-year-old accountant from Tennessee. He had never played a live poker tournament.\n\nHe entered an $86 qualifier on PokerStars. It won him a seat in a bigger qualifier\, which won him a $10\,000 seat at the World Series of Poker Main Event in Las Vegas. For years the story said $39. PokerStars' own records later showed $86.\n\nThere were 839 players. Moneymaker reached the final two against Sam Farha\, a seasoned pro.\n\nThen came the hand. Moneymaker had nothing: king-high\, no pair. Farha had a pair of nines\, the better hand. On the last card\, Moneymaker bet everything. That is a bluff: betting big with a weak hand to make your opponent believe you are strong.\n\nFarha thought it over and folded the winning hand.\n\n"I know we're early in the century\, but that's the bluff of the century\," said ESPN commentator Norman Chad.\n\nMoneymaker went on to win the title and $2.5 million. Three years later\, the Main Event drew 8\,773 players. The poker boom had a face.\n\nThe lesson of that hand is not "be fearless". A bluff only works if the story makes sense. Moneymaker's earlier bets fitted a strong hand\, and the cards on the table offered several. Farha wasn't beaten by courage. He was beaten by a believable story.\n\nHave you ever been talked out of something you were right about\, just because the other person seemed so sure?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot\; clip not attached natively (third-party ESPN upload\, copyright risk)
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261018-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261018T213000
 DTEND;TZID=Europe/London:20261018T214500
-SUMMARY:🎬 T11 HCL Anastasia runner-runner boat (music)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: v6-T11\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAdam flops a flush. Anastasia's queen-ten is 3%.\n\nShe's still in when the river comes\, and she bets.\n\nBig bet after a scare card: value\, or a story? Would you pay it off?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
+SUMMARY:✅ 🎬 T11 HCL Anastasia runner-runner boat (music)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2111917734787477629\nClip slug: v6-T11\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAdam flops a flush. Anastasia's queen-ten is 3%.\n\nShe's still in when the river comes\, and she bets.\n\nBig bet after a scare card: value\, or a story? Would you pay it off?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261019-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261019T180000
 DTEND;TZID=Europe/London:20261019T181500
-SUMMARY:💬 Drama: Jamie Gold's $12 million and the voicemail that froze half of it (2006 WSOP)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-08\nClip status: render NOT found on box\nPost text (as scheduled on X):\nJamie Gold won $12 million at the World Series of Poker. Before he could collect it all\, a court froze half.\n\nIn 2006\, the World Series of Poker Main Event was the biggest it had ever been: 8\,773 players. Gold\, a former Hollywood talent agent\, outlasted them all and won $12 million.\n\nWithin weeks\, TV producer Crispin Leyser sued him. Leyser said Gold had promised him half the winnings in return for recruiting celebrities to wear a poker site's logo at the tournament.\n\nHis evidence was a voicemail. On the final day of the tournament\, according to Card Player\, Gold left a message promising Leyser "your half".\n\nGold had already withdrawn $6 million. A court froze the other $6 million\, which sat in the Rio casino's vault while lawyers argued. In December 2006\, the judge indicated Leyser would likely win his claim.\n\nIn February 2007 they settled. The terms were never disclosed. Their joint statement said: "Jamie always intended on sharing his winnings with Crispin."\n\nGold later called it a misunderstanding that should never have reached court.\n\nThis is one of poker's oldest problems. Players constantly make side deals: splitting winnings\, swapping percentages\, backing each other. Most are handshakes or text messages. They feel friendly when you make them. They feel very different once one side is suddenly holding $12 million.\n\nThe fix is boring and it works: if a promise could ever be worth real money\, write down exactly what it means before anyone wins.\n\nHave you ever made a casual promise that would look completely different if it were suddenly worth millions?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+SUMMARY:✅ 💬 Drama: Jamie Gold's $12 million and the voicemail that froze half of it (2006 WSOP)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2112227284451291592\nClip slug: drama-08\nClip status: render NOT found on box\nPost text (as scheduled on X):\nJamie Gold won $12 million at the World Series of Poker. Before he could collect it all\, a court froze half.\n\nIn 2006\, the World Series of Poker Main Event was the biggest it had ever been: 8\,773 players. Gold\, a former Hollywood talent agent\, outlasted them all and won $12 million.\n\nWithin weeks\, TV producer Crispin Leyser sued him. Leyser said Gold had promised him half the winnings in return for recruiting celebrities to wear a poker site's logo at the tournament.\n\nHis evidence was a voicemail. On the final day of the tournament\, according to Card Player\, Gold left a message promising Leyser "your half".\n\nGold had already withdrawn $6 million. A court froze the other $6 million\, which sat in the Rio casino's vault while lawyers argued. In December 2006\, the judge indicated Leyser would likely win his claim.\n\nIn February 2007 they settled. The terms were never disclosed. Their joint statement said: "Jamie always intended on sharing his winnings with Crispin."\n\nGold later called it a misunderstanding that should never have reached court.\n\nThis is one of poker's oldest problems. Players constantly make side deals: splitting winnings\, swapping percentages\, backing each other. Most are handshakes or text messages. They feel friendly when you make them. They feel very different once one side is suddenly holding $12 million.\n\nThe fix is boring and it works: if a promise could ever be worth real money\, write down exactly what it means before anyone wins.\n\nHave you ever made a casual promise that would look completely different if it were suddenly worth millions?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261019-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261019T213000
 DTEND;TZID=Europe/London:20261019T214500
-SUMMARY:🎬 T12 WPT Prime Lodge two-outer (music)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: v6-T12\nClip status: render NOT found on box\nPost text (as scheduled on X):\nKenny turns the nut flush. 95% to win\, heads-up for the title.\n\nShri has exactly two cards left in the deck.\n\nThe nuts on the turn is a lead\, not a result. Anyone else ever lose with the nuts?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
+SUMMARY:✅ 🎬 T12 WPT Prime Lodge two-outer (music)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2112280123122786412\nClip slug: v6-T12\nClip status: render NOT found on box\nPost text (as scheduled on X):\nKenny turns the nut flush. 95% to win\, heads-up for the title.\n\nShri has exactly two cards left in the deck.\n\nThe nuts on the turn is a lead\, not a result. Anyone else ever lose with the nuts?\nNote: Ben approved 15 Oct 12:09 via Grok Bot (with-music)
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261020-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261020T180000
 DTEND;TZID=Europe/London:20261020T181500
-SUMMARY:💬 Drama: Ali Imsirovic: Player of the Year to a $320\,000 seizure (partial confession)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-09\nClip status: render NOT found on box\nPost text (as scheduled on X):\nIn 2021\, Ali Imsirovic was named poker's Player of the Year. Two years later\, he admitted multi-accounting\, a form of online poker cheating\, and said $320\,000 had been seized from him.\n\nImsirovic rose fast. He won the Poker Masters in 2018\, then spent the next years collecting big wins in the most expensive tournaments in the world.\n\nIn April 2022\, other high-stakes players said he had been banned by the online site GGPoker. The accusations included multi-accounting\, ghosting and real-time assistance.\n\nIn plain words: multi-accounting means entering the same tournament under several names\, so you get extra chances to win. Ghosting means someone secretly makes decisions for another player. Real-time assistance means software that tells you the best move while you play.\n\nHe stayed silent for more than a year\, and was barred from PokerGO's tournaments.\n\nIn June 2023 he posted a 30-minute video. He admitted multi-accounting\, confirmed the GGPoker ban and said the site seized $320\,000. He also admitted going back to it briefly after he had been caught.\n\n"I have multi-accounted a bunch\, so I have no interest in denying that. It happened. I regret it\, but it happened\," he said.\n\nBut he firmly denied using real-time assistance or ghosting\, and rejected other accusations against him. Much of the poker world reacted badly\, feeling he spent more time on what he didn't do than on what he did.\n\nThat is the strange power of a partial confession. Admitting one thing can make your other denials sound more believable. It can also make people wonder what else you haven't admitted.\n\nWhen someone admits part of what they're accused of\, do you trust their denials more\, or less?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+SUMMARY:✅ 💬 Drama: Ali Imsirovic: Player of the Year to a $320\,000 seizure (partial confession)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2112589671754498116\nClip slug: drama-09\nClip status: render NOT found on box\nPost text (as scheduled on X):\nIn 2021\, Ali Imsirovic was named poker's Player of the Year. Two years later\, he admitted multi-accounting\, a form of online poker cheating\, and said $320\,000 had been seized from him.\n\nImsirovic rose fast. He won the Poker Masters in 2018\, then spent the next years collecting big wins in the most expensive tournaments in the world.\n\nIn April 2022\, other high-stakes players said he had been banned by the online site GGPoker. The accusations included multi-accounting\, ghosting and real-time assistance.\n\nIn plain words: multi-accounting means entering the same tournament under several names\, so you get extra chances to win. Ghosting means someone secretly makes decisions for another player. Real-time assistance means software that tells you the best move while you play.\n\nHe stayed silent for more than a year\, and was barred from PokerGO's tournaments.\n\nIn June 2023 he posted a 30-minute video. He admitted multi-accounting\, confirmed the GGPoker ban and said the site seized $320\,000. He also admitted going back to it briefly after he had been caught.\n\n"I have multi-accounted a bunch\, so I have no interest in denying that. It happened. I regret it\, but it happened\," he said.\n\nBut he firmly denied using real-time assistance or ghosting\, and rejected other accusations against him. Much of the poker world reacted badly\, feeling he spent more time on what he didn't do than on what he did.\n\nThat is the strange power of a partial confession. Admitting one thing can make your other denials sound more believable. It can also make people wonder what else you haven't admitted.\n\nWhen someone admits part of what they're accused of\, do you trust their denials more\, or less?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261020-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261020T213000
 DTEND;TZID=Europe/London:20261020T214500
-SUMMARY:🤔 Would You Call? Tens vs check-raise + river jam
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-tens\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Mon 12 13:30. | Bumped from 2026-10-20 21:30 on 15 Oct for template video T7\; Poster must reschedule on X. | 16 Oct sync: verified on X.
+SUMMARY:✅ 🤔 Would You Call? Tens vs check-raise + river jam
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2112642512544260333\nClip slug: wyc-tens\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Mon 12 13:30. | Bumped from 2026-10-20 21:30 on 15 Oct for template video T7\; Poster must reschedule on X. | 16 Oct sync: verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261021-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261021T180000
 DTEND;TZID=Europe/London:20261021T181500
-SUMMARY:💬 Drama: Polk vs Negreanu: the grudge match that took 25\,000 hands to settle
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-10\nClip status: render NOT found on box\nPost text (as scheduled on X):\nTwo poker stars who openly disliked each other agreed to settle it at the table. 25\,000 hands later\, one of them was $1.2 million richer.\n\nDoug Polk and Daniel Negreanu had traded insults online for years. Polk had made his name in heads-up poker\, meaning one-on-one. Negreanu is one of the most famous players in the world\, but heads-up was not his speciality.\n\nSo they set terms: 25\,000 hands of one-on-one online poker at $200/$400 blinds\, stakes where pots regularly reached tens of thousands of dollars.\n\nBetting markets made Polk roughly a 4-to-1 favourite. Negreanu had big days\, including one session where he won nearly $400\,000. But over 36 sessions and three months\, Polk pulled ahead and stayed there. In February 2021 he finished up $1\,201\,807.\n\n"He's a great player and obviously the favorite going in\," Negreanu said afterwards. Polk returned the compliment: "If you're not a heads-up pro\, he's going to beat you."\n\nBy the end\, the two had shared a study session and\, in Polk's words\, buried the hatchet.\n\nThe real lesson is in the number of hands. In poker\, a weaker player can win a session\, a day\, even a week. Luck is loud over short stretches. Skill only shows up clearly over thousands of hands. That is why they agreed to 25\,000 hands\, not 250.\n\nThe match settled a feud. It also showed how long you have to watch before you can tell luck from skill.\n\nWhat have you judged too quickly\, before you had seen enough results to really know?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
+SUMMARY:✅ 💬 Drama: Polk vs Negreanu: the grudge match that took 25\,000 hands to settle
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2112952050522984504\nClip slug: drama-10\nClip status: render NOT found on box\nPost text (as scheduled on X):\nTwo poker stars who openly disliked each other agreed to settle it at the table. 25\,000 hands later\, one of them was $1.2 million richer.\n\nDoug Polk and Daniel Negreanu had traded insults online for years. Polk had made his name in heads-up poker\, meaning one-on-one. Negreanu is one of the most famous players in the world\, but heads-up was not his speciality.\n\nSo they set terms: 25\,000 hands of one-on-one online poker at $200/$400 blinds\, stakes where pots regularly reached tens of thousands of dollars.\n\nBetting markets made Polk roughly a 4-to-1 favourite. Negreanu had big days\, including one session where he won nearly $400\,000. But over 36 sessions and three months\, Polk pulled ahead and stayed there. In February 2021 he finished up $1\,201\,807.\n\n"He's a great player and obviously the favorite going in\," Negreanu said afterwards. Polk returned the compliment: "If you're not a heads-up pro\, he's going to beat you."\n\nBy the end\, the two had shared a study session and\, in Polk's words\, buried the hatchet.\n\nThe real lesson is in the number of hands. In poker\, a weaker player can win a session\, a day\, even a week. Luck is loud over short stretches. Skill only shows up clearly over thousands of hands. That is why they agreed to 25\,000 hands\, not 250.\n\nThe match settled a feud. It also showed how long you have to watch before you can tell luck from skill.\n\nWhat have you judged too quickly\, before you had seen enough results to really know?\nNote: replies on this post must never state allegations as fact\; attach Clip Lab key-moment clip if ready before slot
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261021-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261021T213000
 DTEND;TZID=Europe/London:20261021T214500
-SUMMARY:🎬 T6 Wild Wednesday one-outer (music)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: v6-T6\nClip status: render NOT found on box\nPost text (as scheduled on X):\nBoth players on a diamond draw. One of them has the king.\n\nVegas Viet needs one very specific card\, and he's betting like he knows it's coming.\n\nA flush isn't the nuts on a paired board. Would you have called?\nNote: Ben approved directly in chat 15 Oct 21:30
+SUMMARY:✅ 🎬 T6 Wild Wednesday one-outer (music)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2113004900061728996\nClip slug: v6-T6\nClip status: render NOT found on box\nPost text (as scheduled on X):\nBoth players on a diamond draw. One of them has the king.\n\nVegas Viet needs one very specific card\, and he's betting like he knows it's coming.\n\nA flush isn't the nuts on a paired board. Would you have called?\nNote: Ben approved directly in chat 15 Oct 21:30
 TRANSP:TRANSPARENT
 CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261022-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261022T180000
 DTEND;TZID=Europe/London:20261022T181500
-SUMMARY:💬 Drama: Mike Postle (approved as written)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: drama-07\nClip status: render NOT found on box\nPost text (as scheduled on X):\nA poker player won an estimated $250\,000 in livestreamed games at a small California casino. Regulars nicknamed him "God". Then a commentator suggested he might be cheating.\n\nFrom July 2018\, Mike Postle went on a remarkable run in low-stakes games streamed from Stones Gambling Hall near Sacramento. He made strange decisions that kept working: folding strong hands just before they lost\, staying in with weak ones just before they won.\n\nThe stream showed viewers every player's face-down cards\, read by sensors in the table\, on a 30-minute delay.\n\nOn September 21\, 2019\, Postle folded a strong hand against an opponent holding the best possible hand. Commentator Veronica Brill said on air: "It's like he knows."\n\nA week later she posted a video of his hands. "Am I sure that this player is cheating? No\," she wrote. But she believed he might be secretly receiving card information.\n\nOthers studied hours of footage and found it suspicious. Postle denied cheating\, said his winnings were overstated and described his style as deliberately unpredictable. "There aren't words to describe what I do\," he said on a podcast.\n\n88 players sued him and the casino for $30 million. In 2020\, a judge dismissed the claims against Postle because California law generally bars suing to recover gambling losses. It was not a ruling on whether he cheated. Postle then filed a $330 million defamation suit against his accusers\, and dropped it in 2021.\n\nNo court has ever found that he cheated. No one has ever explained how he could have.\n\nThe idea: results alone can raise a question. They cannot answer it.\n\nHow much evidence would you need before publicly accusing someone of cheating?\nNote: HIGH defamation risk: never write that Postle cheated anywhere\, including replies
+SUMMARY:✅ 💬 Drama: Mike Postle (approved as written)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2113314443484696611\nClip slug: drama-07\nClip status: render NOT found on box\nPost text (as scheduled on X):\nA poker player won an estimated $250\,000 in livestreamed games at a small California casino. Regulars nicknamed him "God". Then a commentator suggested he might be cheating.\n\nFrom July 2018\, Mike Postle went on a remarkable run in low-stakes games streamed from Stones Gambling Hall near Sacramento. He made strange decisions that kept working: folding strong hands just before they lost\, staying in with weak ones just before they won.\n\nThe stream showed viewers every player's face-down cards\, read by sensors in the table\, on a 30-minute delay.\n\nOn September 21\, 2019\, Postle folded a strong hand against an opponent holding the best possible hand. Commentator Veronica Brill said on air: "It's like he knows."\n\nA week later she posted a video of his hands. "Am I sure that this player is cheating? No\," she wrote. But she believed he might be secretly receiving card information.\n\nOthers studied hours of footage and found it suspicious. Postle denied cheating\, said his winnings were overstated and described his style as deliberately unpredictable. "There aren't words to describe what I do\," he said on a podcast.\n\n88 players sued him and the casino for $30 million. In 2020\, a judge dismissed the claims against Postle because California law generally bars suing to recover gambling losses. It was not a ruling on whether he cheated. Postle then filed a $330 million defamation suit against his accusers\, and dropped it in 2021.\n\nNo court has ever found that he cheated. No one has ever explained how he could have.\n\nThe idea: results alone can raise a question. They cannot answer it.\n\nHow much evidence would you need before publicly accusing someone of cheating?\nNote: HIGH defamation risk: never write that Postle cheated anywhere\, including replies
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261022-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261022T213000
 DTEND;TZID=Europe/London:20261022T214500
-SUMMARY:💬 Would You Call?: ace high vs turn bet
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: placeholder-2026-10-22-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAce high on a paired board\, facing a turn bet. Call or fold?\nNote: placeholder\; clips need Ben approval
+SUMMARY:✅ 💬 Would You Call?: ace high vs turn bet
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2113367286278979978\nClip slug: placeholder-2026-10-22-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAce high on a paired board\, facing a turn bet. Call or fold?\nNote: placeholder\; clips need Ben approval
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261023-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261023T180000
 DTEND;TZID=Europe/London:20261023T181500
-SUMMARY:💬 Text: set vs set (no Article link)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat3-set-vs-set-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nSet vs set is the cruellest spot in poker.\n\nBoth players flop three of a kind. Both feel locked. Neither will ever fold.\n\nThe smaller set usually needs one card in the whole deck. Ever been on the wrong end of one? 👇
+SUMMARY:✅ 💬 Text: set vs set (no Article link)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2113676826086162549\nClip slug: coolers-sat3-set-vs-set-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nSet vs set is the cruellest spot in poker.\n\nBoth players flop three of a kind. Both feel locked. Neither will ever fold.\n\nThe smaller set usually needs one card in the whole deck. Ever been on the wrong end of one? 👇
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261023-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261023T213000
 DTEND;TZID=Europe/London:20261023T214500
-SUMMARY:💬 House rules Q: nit button after winning pot
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: placeholder-2026-10-16-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nnit game rule: win a pot\, toss your button in. love it or hate it\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-16 21:30 on 15 Oct for template video T12\; Poster must reschedule on X. | 16 Oct sync: verified on X.
+SUMMARY:✅ 💬 House rules Q: nit button after winning pot
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2113729674912141428\nClip slug: placeholder-2026-10-16-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nnit game rule: win a pot\, toss your button in. love it or hate it\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-16 21:30 on 15 Oct for template video T12\; Poster must reschedule on X. | 16 Oct sync: verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261024-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261024T180000
 DTEND;TZID=Europe/London:20261024T181500
-SUMMARY:💬 Text: in a cooler nobody plays badly (no Article link)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat2-nobody-plays-badly-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nIn a cooler\, nobody plays badly.\n\nBoth players have a monster. Both are right to put it all in. One of them just ran into the only hand that beats them.
+SUMMARY:✅ 💬 Text: in a cooler nobody plays badly (no Article link)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2114039220251566501\nClip slug: coolers-sat2-nobody-plays-badly-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nIn a cooler\, nobody plays badly.\n\nBoth players have a monster. Both are right to put it all in. One of them just ran into the only hand that beats them.
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261024-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261024T213000
 DTEND;TZID=Europe/London:20261024T214500
-SUMMARY:💬 House rules Q: slow-roll in a friendly game
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: placeholder-2026-10-17-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nslow-rolling the nuts in a friendly game. harmless banter or never ok?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-17 21:30 on 15 Oct for template video T9\; Poster must reschedule on X. | 16 Oct sync: verified on X.
+SUMMARY:✅ 💬 House rules Q: slow-roll in a friendly game
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2114092063449079942\nClip slug: placeholder-2026-10-17-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nslow-rolling the nuts in a friendly game. harmless banter or never ok?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-17 21:30 on 15 Oct for template video T9\; Poster must reschedule on X. | 16 Oct sync: verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261025-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261025T180000
 DTEND;TZID=Europe/London:20261025T181500
-SUMMARY:💬 Text: why didn't one of them fold? (no Article link)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat1-why-not-fold-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nYou've seen the clip: two players\, every chip in the middle\, cards flip\, chaos.\n\n"Why didn't one of them just fold?"\n\nBecause folding would've been the mistake. In a cooler\, both players are right.
+SUMMARY:✅ 💬 Text: why didn't one of them fold? (no Article link)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2114416707573879117\nClip slug: coolers-sat1-why-not-fold-nolink\nClip status: render NOT found on box\nPost text (as scheduled on X):\nYou've seen the clip: two players\, every chip in the middle\, cards flip\, chaos.\n\n"Why didn't one of them just fold?"\n\nBecause folding would've been the mistake. In a cooler\, both players are right.
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261025-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261025T213000
 DTEND;TZID=Europe/London:20261025T214500
-SUMMARY:🤔 Would You Call? Second pair vs river barrel
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: wyc-second-pair\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Sun 11 13:30. | Bumped from 2026-10-18 21:30 on 15 Oct for template video T6\; Poster must reschedule on X. | 16 Oct sync: verified on X.
+SUMMARY:✅ 🤔 Would You Call? Second pair vs river barrel
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2114469550276399515\nClip slug: wyc-second-pair\nClip status: render NOT found on box\nNote: Would You Call? Never reveal the result in the question post. Softened timing: answer drops with the clip. Existing text kept (null in manifest). From Sun 11 13:30. | Bumped from 2026-10-18 21:30 on 15 Oct for template video T6\; Poster must reschedule on X. | 16 Oct sync: verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:would_you_call
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261026-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261026T180000
 DTEND;TZID=Europe/London:20261026T181500
-SUMMARY:📰 Coolers Article satellite: Kings vs queens (week's Article link)
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: coolers-sat4-kk-qq\nClip status: render NOT found on box\nPost text:\nKings vs queens.\n\nQueens thinks "only aces or kings beat me."\nKings thinks "only aces beat me."\n\nBoth are thinking right. Only one walks.\n\nhttps://x.com/DevonStPoker/status/2107873647033532534\nPost text (as scheduled on X):\nKings vs queens.\n\nQueens thinks "only aces or kings beat me."\nKings thinks "only aces beat me."\n\nBoth are thinking right. Only one walks.\n\nhttps://x.com/DevonStPoker/status/2107873647033532534\nArticle: Coolers Explained: Why Both Players Are Happy to Put All the Money In (https://x.com/DevonStPoker/status/2107873647033532534\, live 2026-10-07 17:40 UK)\nNote: This week's one Article link in a main post (growth-fix rule: at most one Article link in a main post per week).
+SUMMARY:✅ 📰 Coolers Article satellite: Kings vs queens (week's Article link)
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2114779090167218196\nClip slug: coolers-sat4-kk-qq\nClip status: render NOT found on box\nPost text:\nKings vs queens.\n\nQueens thinks "only aces or kings beat me."\nKings thinks "only aces beat me."\n\nBoth are thinking right. Only one walks.\n\nhttps://x.com/DevonStPoker/status/2107873647033532534\nPost text (as scheduled on X):\nKings vs queens.\n\nQueens thinks "only aces or kings beat me."\nKings thinks "only aces beat me."\n\nBoth are thinking right. Only one walks.\n\nhttps://x.com/DevonStPoker/status/2107873647033532534\nArticle: Coolers Explained: Why Both Players Are Happy to Put All the Money In (https://x.com/DevonStPoker/status/2107873647033532534\, live 2026-10-07 17:40 UK)\nNote: This week's one Article link in a main post (growth-fix rule: at most one Article link in a main post per week).
 TRANSP:TRANSPARENT
 CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261026-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261026T213000
 DTEND;TZID=Europe/London:20261026T214500
-SUMMARY:💬 House rules Q: joke raise binding
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: placeholder-2026-10-19-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFacing a bet\, someone jokes "I have to raise you now." Binding or not in your room?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-19 21:30 on 15 Oct for template video T10\; Poster must reschedule on X. | 16 Oct sync: verified on X.
+SUMMARY:✅ 🎬 Tom Dwan just let him hit the nut flush
+DESCRIPTION:Status: POSTED\nPost: https://x.com/DevonStPoker/status/2114831938737365248\nClip slug: 44-dwan-boat-vs-nut-flush\nClip status: render NOT found on box\nPost text (as scheduled on X):\nTom Dwan just let him hit the nut flush\n\n@TomDwan @HCLPokerShow\nNote: Ben approved 26 Oct 2026 (short format)
 TRANSP:TRANSPARENT
-CATEGORIES:community
+CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261027-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261027T180000
 DTEND;TZID=Europe/London:20261027T181500
 SUMMARY:💬 House rules Q: exposed card mid-hand
@@ -448,17 +448,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261027-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261027T213000
 DTEND;TZID=Europe/London:20261027T214500
-SUMMARY:💬 Teach line: pot odds
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: teach-pot-odds-basic\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPot odds\, simple version:\n\nThere's $150 in the pot after their bet\, and it costs you $50 to call.\n\nYou're putting in $50 to win $200 total\, so you need to win more than 25% of the time.\n\nThat's the whole idea. Which spots still confuse you? 👇
+SUMMARY:🎬 Antonius bets $75K into my trip kings. I'm calling... right?
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 43-antonius-bulldog-tank-fold\nClip status: render NOT found on box\nPost text (as scheduled on X):\nAntonius bets $75K into my trip kings. I'm calling... right?\n\n@Patrik_Antonius @HCLPokerShow\nNote: Ben approved 26 Oct 2026 (short format)
 TRANSP:TRANSPARENT
-CATEGORIES:community
+CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261028-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261028T180000
 DTEND;TZID=Europe/London:20261028T181500
 SUMMARY:💬 Filler: pocket jacks under the gun
@@ -468,17 +468,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261028-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261028T213000
 DTEND;TZID=Europe/London:20261028T214500
-SUMMARY:💬 Poker Word of the Day: Hero call
-DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: word-of-the-day-hero-call\nClip status: render NOT found on box\nNote: Existing text kept (null in manifest). From Fri 9 13:30.
+SUMMARY:🎬 Rampage was SURE this was a bluff
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 45-rampage-bluff-misread\nClip status: render NOT found on box\nPost text (as scheduled on X):\nRampage was SURE this was a bluff\n\n@rampagepoker @HCLPokerShow\nNote: Ben approved 26 Oct 2026 (short format)
 TRANSP:TRANSPARENT
-CATEGORIES:community
+CATEGORIES:clip
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261029-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261029T180000
 DTEND;TZID=Europe/London:20261029T181500
 SUMMARY:💬 Filler: straddles make live games better?
@@ -488,7 +488,7 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261029-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261029T213000
 DTEND;TZID=Europe/London:20261029T214500
 SUMMARY:💬 Text: sickest cooler ask (no Article link)
@@ -498,17 +498,17 @@ CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261030-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261030T180000
 DTEND;TZID=Europe/London:20261030T181500
-SUMMARY:💬 Would You Call?: tens vs check-raise + river jam
-DESCRIPTION:Status: dropped_duplicate\nClip slug: placeholder-2026-10-21-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPocket tens facing a check-raise and then a river jam. Your two tens block ten-seven and queen-ten. Does that change anything for you?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-21 21:30 on 15 Oct for template video T11\; Poster must reschedule on X. | 16 Oct: dropped\, duplicate of wyc-tens Tue 20 21:30\; slot empty on X.
+SUMMARY:💬 Teach line: set mining 15-20x
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: teach-set-mining\nClip status: render NOT found on box\nPost text (as scheduled on X):\nset mining rule of thumb: a pocket pair flops a set about 1 time in 8.5.\n\nso calling a raise just to hit one only works when there's roughly 15-20x the call left behind to win.\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-21 21:30 on 15 Oct for template video T11\; Poster must reschedule on X. | 16 Oct: dropped\, duplicate of wyc-tens Tue 20 21:30\; slot empty on X. | 18 Oct: filled per Grok Bot with set-mining teach line\, verified on X.
 TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
 UID:slot-20261030-2130@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261030T213000
 DTEND;TZID=Europe/London:20261030T214500
 SUMMARY:💬 Drama: Annette Obrestad WSOPE 2007
@@ -517,8 +517,48 @@ TRANSP:TRANSPARENT
 CATEGORIES:community
 END:VEVENT
 BEGIN:VEVENT
+UID:slot-20261031-1800@devonstpoker
+DTSTAMP:20261027T084254Z
+DTSTART;TZID=Europe/London:20261031T180000
+DTEND;TZID=Europe/London:20261031T181500
+SUMMARY:💬 House rules Q: joke raise binding
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: placeholder-2026-10-19-21:30\nClip status: render NOT found on box\nPost text (as scheduled on X):\nFacing a bet\, someone jokes "I have to raise you now." Binding or not in your room?\nNote: placeholder\; clips need Ben approval | Bumped from 2026-10-19 21:30 on 15 Oct for template video T10\; Poster must reschedule on X. | 16 Oct sync: verified on X.
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261031-2130@devonstpoker
+DTSTAMP:20261027T084254Z
+DTSTART;TZID=Europe/London:20261031T213000
+DTEND;TZID=Europe/London:20261031T214500
+SUMMARY:💬 Teach line: pot odds
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: teach-pot-odds-basic\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPot odds\, simple version:\n\nThere's $150 in the pot after their bet\, and it costs you $50 to call.\n\nYou're putting in $50 to win $200 total\, so you need to win more than 25% of the time.\n\nThat's the whole idea. Which spots still confuse you? 👇
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261101-1800@devonstpoker
+DTSTAMP:20261027T084254Z
+DTSTART;TZID=Europe/London:20261101T180000
+DTEND;TZID=Europe/London:20261101T181500
+SUMMARY:💬 Poker Word of the Day: Hero call
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: word-of-the-day-hero-call\nClip status: render NOT found on box\nNote: Existing text kept (null in manifest). From Fri 9 13:30.
+TRANSP:TRANSPARENT
+CATEGORIES:community
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261101-2130@devonstpoker
+DTSTAMP:20261027T084254Z
+DTSTART;TZID=Europe/London:20261101T213000
+DTEND;TZID=Europe/London:20261101T214500
+SUMMARY:🎬 Bruce Buffer folds the best hand to the Main Event champ
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 46-buffer-folds-to-grinder-bluff\nClip status: render NOT found on box\nPost text (as scheduled on X):\nBruce Buffer folds the best hand to the Main Event champ\n\n@brucebuffer @TheGrinder44 @HCLPokerShow
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
 UID:slot-20261102-1800@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261102T180000
 DTEND;TZID=Europe/London:20261102T181500
 SUMMARY:📰 Hero Calls Article satellite: calling station vs hero caller (week's Article link)
@@ -527,8 +567,38 @@ TRANSP:TRANSPARENT
 CATEGORIES:satellite
 END:VEVENT
 BEGIN:VEVENT
+UID:slot-20261102-2130@devonstpoker
+DTSTAMP:20261027T084254Z
+DTSTART;TZID=Europe/London:20261102T213000
+DTEND;TZID=Europe/London:20261102T214500
+SUMMARY:🎬 Grinder kept saying "two red kings." Alan saw them in the mirror.
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 47-grinder-red-kings-mirror-fold\nClip status: render NOT found on box\nPost text (as scheduled on X):\nGrinder kept saying "two red kings." Alan saw them in the mirror.\n\n@TheGrinder44 @HCLPokerShow
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261104-2130@devonstpoker
+DTSTAMP:20261027T084254Z
+DTSTART;TZID=Europe/London:20261104T213000
+DTEND;TZID=Europe/London:20261104T214500
+SUMMARY:🎬 Phil Hellmuth used his "see a card" with a full house
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 48-hellmuth-see-a-card-full-house\nClip status: render NOT found on box\nPost text (as scheduled on X):\nPhil Hellmuth used his "see a card" with a full house\n\n@phil_hellmuth @PokerGO
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
+UID:slot-20261106-2130@devonstpoker
+DTSTAMP:20261027T084254Z
+DTSTART;TZID=Europe/London:20261106T213000
+DTEND;TZID=Europe/London:20261106T214500
+SUMMARY:🎬 Rampage hits his flush on the river. So does the boxer.
+DESCRIPTION:Status: SCHEDULED on X (seen in Poker Poster's scheduled queue)\nClip slug: 49-garcia-flush-over-rampage\nClip status: render NOT found on box\nPost text (as scheduled on X):\nRampage hits his flush on the river. So does the boxer.\n\n@rampagepoker @RyanGarcia @HCLPokerShow
+TRANSP:TRANSPARENT
+CATEGORIES:clip
+END:VEVENT
+BEGIN:VEVENT
 UID:routine-0805-daily@devonstpoker
-DTSTAMP:20261016T074308Z
+DTSTAMP:20261027T084254Z
 DTSTART;TZID=Europe/London:20261008T080500
 DTEND;TZID=Europe/London:20261008T082000
 SUMMARY:⏰ 08:05 queue routine (devonstpoker-3-day-schedule)
